@@ -5,8 +5,8 @@ import { GoogleGenerativeAI, HarmCategory, HarmBlockThreshold } from "@google/ge
 
 // --- Configuration ---
 const KNOWLEDGE_BASE_FILE_PATH = path.resolve(__dirname, 'knowledge_base.txt'); // Adjusted for common build structure
-const GOOGLE_AI_API_KEY = 'AIzaSyCBW6R75kT4j55EuCe3OTGqJ1wAvF5us9s'; // New Google AI API Key
-const OPENROUTER_API_KEY = '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';
+const GOOGLE_AI_API_KEY = 'API-KEYs'; // New Google AI API Key
+const OPENROUTER_API_KEY = 'API-KEY';
 // --- END CRITICAL ---
 
 const OPENROUTER_API_URL = 'https://openrouter.ai/api/v1/chat/completions';
