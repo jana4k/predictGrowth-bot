@@ -9,7 +9,7 @@ import QAHistoryModel, { IQAHistory } from './models/qaHistory.model';
 dotenv.config();
 
 const app = express();
-const port = process.env.PORT || 3004;
+const port = process.env.PORT || 3005;
 
 if (process.env.NODE_ENV !== 'test' && !process.env.IS_OFFLINE && !process.env.AWS_LAMBDA_FUNCTION_NAME) {
     connectToDatabase().catch(err => {
