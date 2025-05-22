@@ -66,7 +66,7 @@ const ChatInterface: React.FC = () => {
   const [historyLoading, setHistoryLoading] = useState(false);
   const [historyError, setHistoryError] = useState<string | null>(null);
 
-  const backendUrl = 'https://backend-jsngbeyzs-jana4ks-projects.vercel.app/api';
+  const backendUrl = 'https://backend-phi-one-82.vercel.app/api';
 
   useEffect(() => {
     if (lastMessageRef.current) {
