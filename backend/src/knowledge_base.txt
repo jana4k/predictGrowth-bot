@@ -1,0 +1,4435 @@
+                       
+
+                       
+ 
+Copyright @ 2024 Hustle FundVC 
+All rights reserved. No part of  this book may be reproduced or used 
+in any manner without the prior written permission of  the copyright 
+owner, except for the use of  brief  quotations in a book review.  
+If  youÕd like to share the book, share this link: 
+bit.ly/RaiseMillions
+  
+Written byTam Pham 
+Edited by Kera DeMars 
+Reviewed by ElizabethYin 
+Cover art byTam Pham 
+hustlefund.vc 
+ Ñ hello@hustlefundvc.com 
+
+                       
+Introduction
+ 
+ 
+5
+Who is Hustle Fund?
+ 
+ 
+6
+This book is educational and actionable
+ 
+ 
+8
+How the fundraising process works
+ 
+ 
+9
+Should you even raise money?
+ 
+ 
+9
+Fundraising stages explained
+ 
+ 
+11
+Angel investors vs. venture capitalists
+ 
+ 
+15
+Incorporate your company in Delaware
+ 
+ 
+20
+Breaking down equity, SAFEs, and dilution
+ 
+ 
+22
+How to determine a valuation for your startup
+ 
+ 
+28
+High valuations arenÕt always a good thing
+ 
+ 
+31
+How cap tables, shares, and vesting all work together
+ 
+ 
+33
+Be aware of  the current market conditions
+ 
+ 
+38
+Best times of  the year to fundraise
+ 
+ 
+42
+The essentials of a killer pitch deck
+ 
+ 
+46
+Team
+ 
+ 
+47
+Problem
+ 
+ 
+50
+Solution
+ 
+ 
+53
+Market
+ 
+ 
+56
+Traction
+ 
+ 
+58
+Keep your pitch deck short
+ 
+ 
+61
+How to actually design a captivating pitch deck
+ 
+ 
+63
+Build relationships with investors
+ 
+ 
+64
+
+                       
+Make authentic relationships in business
+ 
+ 
+65
+Where to meet investors
+ 
+ 
+67
+Find warm intros or craft your cold email
+ 
+ 
+69
+Create your elevator pitch
+ 
+ 
+75
+Pitch to investors
+ 
+ 
+78
+How to run your 
+Þ
+rst meeting with aVC
+ 
+ 
+78
+Questions that founders should ask VCs
+ 
+ 
+89
+Follow up immediately after the call
+ 
+ 
+92
+Create your investor CRM
+ 
+ 
+95
+Create an investor newsletter
+ 
+ 
+104
+How to ask for feedback if  the investor says no
+ 
+ 
+112
+What to do if  you arenÕt hearing back from investors
+ 
+ 
+113
+What to do after an investor verbally commits
+ 
+ 
+117
+Do your due diligence on investors
+ 
+ 
+117
+What to expect when youÕre expectingVC funding
+ 
+ 
+121
+What investors look for in a data room
+ 
+ 
+125
+HereÕs how youÕll actually receive the money
+ 
+ 
+128
+What to say to your team after a successful fundraise
+ 
+ 
+130
+Conclusion
+ 
+ 
+134
+Cheat Sheet
+ 
+ 
+135
+Resources
+ 
+ 
+142
+Acknowledgments
+ 
+ 
+143
+Glossary
+ 
+144
+
+                       
+CHAPTER ONE
+ 
+Introduction
+ 
+In the past, raising money for a startup was reserved for an ÒeliteÓ 
+group of  people. If  you werenÕt born into a family of  entrepreneurs, 
+or grew up in an area like SiliconValley, you would have had no idea 
+how to raise money.This meant the ÒeliteÓ group of  people were the 
+only ones with the opportunity to fundraise and build billion-dollar 
+companies, while everyone else had to struggle to 
+Þ
+gure things out.  
+Well, not anymore.  
+We wrote this book to bring transparency to the world of  
+fundraising. So whether youÕre a solo founder from India, a small 
+team inArgentina, or a fresh college graduate from Minnesota, youÕll 
+learn how weÕve helped thousands of  
+Þ
+rst-time founders raise 
+millions of  dollars.  
+
+                       
+Who is Hustle Fund? 
+My name isTam and IÕm one of  the writers at 
+Hustle Fund
+, a venture 
+capital 
+Þ
+rm that invests in pre-seed software startups. Our mission is 
+to democratize wealth through startups by catalyzing capital, 
+knowledge, and networks in startup ecosystems globally.  
+ 
+Our team is made up of  founders, operators, and investors.WeÕve 
+invested in 500 (as of January 2024) companies thanks to a deals 
+team that reviews 1,000 pitch decks every month. On a personal 
+level, IÕve been writing about fundraising every week for two years to 
+thousands of  entrepreneurs via our newsletter, 
+The Founder 
+Playbook
+.  
+WeÕve been on both sides of  the table Ð raising money as 
+entrepreneurs and investing in talented founders Ð so we know a 
+thing or two about raising capital.The people who taught me 
+everything I know about fundraising are the co-founders and 
+general partners (GPs) of  Hustle Fund, whom IÕm honored to 
+introduce below.  
+ 
+
+                       
+Eric Bahn
+ (left) founded an education company called Beat the 
+GMAT, which was acquired in 2012. He later became a partner at 
+500 Startups and a Product Manager at Instagram. His mom is still 
+disappointed that heÕs not a doctor. Eric is also weirdly obsessed 
+with minivans. 
+ElizabethYin
+ (middle) co-founded and ran an ad-tech company 
+called LaunchBit that was acquired in 2014. She later became a 
+partner at 500 Startups where she invested in seed-stage companies 
+and ran the MountainView accelerator. Elizabeth loves hippos and 
+roller coasters. 
+Shiyan Koh
+ (right) worked as a Senior InvestmentAssociate for 
+BridgewaterAssociates. She later became theVP of  Business 
+Operations and Corporate Development at NerdWallet (employee 
+#10), a consumer 
+Þ
+nance business that she helped scale from 10 to 
+450 employees. Shiyan loves factoids and weird humans. 
+TheyÕre three of  the sharpest people that IÕve ever met. IÕll be using 
+their names throughout the book. So if  you see the names ÒEricÓ, 
+ÒElizabethÓ, or ÒShiyanÓ, just know that IÕm referring to one of  our 
+super smart GPs.  
+ 
+
+                       
+This book is educational and actionable  
+The number one thing we believe is that 
+great founders can look 
+like anyone and come from anywhere
+. Based on circumstances 
+beyond their control, many entrepreneurs are missing the tactical 
+knowledge to build an investor network and raise money.  
+This book will dive deep into practical questions like: 
+!
+Should I raise from angel investors or venture capitalists? 
+!
+What do all the fundraising stages mean?  
+!
+What do equity, SAFEs, and dilution mean? 
+!
+How do I determine my startupÕs valuation?  
+!
+Why are cap tables, shares, and vesting so important?  
+!
+Where should I incorporate my company? 
+!
+When is the best time to start fundraising? 
+!
+What exactly should I include in my pitch deck?  
+!
+How should I structure my 
+Þ
+rst meeting with an investor? 
+!
+What questions will early-stageVCs ask me?  
+!
+How do I build authentic relationships with investors?  
+!
+What happens if  an investor says no or ghosts me?  
+!
+What should I expect after an investor verbally commits?  
+And so much more. If  youÕre a 
+Þ
+rst-time founder building a tech 
+startup, this book will teach you how to fundraise from the pre-seed 
+stage all the way to your SeriesA.  
+Ready? Let Õs dive in. 
+ 
+
+                       
+CHAPTER TWO
+ 
+How the fundraising 
+process works 
+Before you devote the next several months to fundraising, we must 
+start with the most crucial question of  all. 
+ 
+Should you even raise money?
+ 
+Not every business should raise money.  
+Founders have to give up partial ownership of  their company when 
+they raise money.That percentage could be worth a ton of  money 
+when you go public or get acquired down the line.And once you 
+start selling part of  your company, these investors become your 
+business partners.This means they will have opinions about how the 
+business should operate, which may or may not align with your 
+vision. 
+
+                       
+So if  you can get away with securing money through bootstrapping, 
+crowdfunding, government programs, banks, or even alternative 
+lending models like 
+Paintbrush
+É we actually recommend not 
+fundraising to keep 100% ownership of  your company. 
+ 
+So, what type of  businesses 
+should
+ raise money?Typically high-
+growth tech startups that hope to: 
+1.
+sell their business for hundreds of  millions of  dollars, or 
+2.
+go public, also known as an initial public offering (IPO)  
+If  your goal is to sell your company for a smaller exit, it may be ok in 
+some cases, but it Õs likely that your investors will be disappointed. 
+Because theyÕre looking for a very high return for their capital Ð like 
+100x their investment Ð so they want to invest in founders that are 
+aiming for a big success.  
+If  that Õs you, keep reading.YouÕre in the right place.  
+I know this is a weird start to a book about 
+fundraising, especially from a venture capital 
+Þ
+rm.  
+But we want to be fully transparent on what Õs 
+actually best for you, the hard-working entrepreneur.
+
+                       
+Fundraising stages explained 
+Founders typically raise money in stages. 
+1.
+Pre-seed 
+2.
+Seed 
+3.
+Post-seed 
+4.
+SeriesA 
+5.
+Series B  
+6.
+Series C 
+7.
+Series D-G (if  needed) 
+8.
+Initial Public Offering (IPO) 
+It usually takes several months to start and complete a fundraising 
+round. Since this book is written for early-stage founders, weÕre 
+going to primarily focus on the 
+pre-seed to SeriesA stages
+.  
+Pre-seed
+ 
+The pre-seed stage is the 
+Þ
+rst round of  funding that founders raise. 
+People also call it an 
+angel round
+ or a 
+friends and family round
+. 
+Teams at the pre-seed stage are just getting started.This is when 
+founders quit their jobs to go full-time on their startup. Investors 
+want to see you launch a minimum viable product (MVP), a basic 
+version of  your product that Õs designed to quickly gather user 
+feedback and improve your offering.  
+
+                       
+They also want to see data around customer discovery that proves 
+what youÕre solving is indeed a big problem and these customers 
+are willing to pay to solve this problem.You probably donÕt have 
+many (or any) real users or revenue yet. So investors who put in 
+money are betting on your team and the market youÕre in.  
+These investment rounds are typically small, ranging between 
+$100k - $1M
+.The money will likely come from your family, friends, 
+angel investors, and pre-seed funds like 
+Hustle Fund
+ (that Õs us!).The 
+goal at this stage is to get enough money to go full-time on your 
+startup, build your product, and start 
+generating some traction
+. 
+Seed
+ 
+The seed stage typically happens when youÕve shipped your MVP 
+and have feedback from real users.You could have a consumer app 
+with millions of  users. Or you may have a B2B business with some 
+enterprise customers in your pilot program.This is the stage where 
+you're validating the market demand for your product and making 
+solid traction. 
+Seed rounds typically range from 
+$500k to $3M
+.The goal at this 
+stage is to generate traction and 
+Þ
+nd product-market 
+Þ
+t.The typical 
+traction range is ~$10k+/month.  
+
+                       
+Post-seed
+ 
+The post-seed stage (also known as Òpre-SeriesAÓ) is a gray area 
+between seed and seriesA, kind of  like the awkward teenage phase. 
+YouÕve made major progress as a seed-stage company, but not quite 
+enough to raise a SeriesA.You may hear people call this round the 
+mango seed stage
+ or 
+avocado seed stage
+.
+ 
+Before you get to SeriesA, you may need to hit speci
+Þ
+c metrics 
+around retention and engagement. Or hit certain revenue 
+milestones, or acquire a certain number of  users.The post-seed 
+round is your opportunity to achieve these goals. 
+Post-seed rounds can range from 
+$1M to $5M
+.This can be an 
+extension of  your seed round with many of  your previous investors, 
+or separate rounds with new investors.The goal at this stage is to 
+provide more evidence/data that your company is ready for a big 
+seriesA round.The typical traction range at this stage is ~$100k/
+month.  
+
+Not everyone who plans to raise a SeriesA will need to raise this 
+round. If  you have enough runway from previous fundraising 
+rounds, or from your earned revenue, you may be able to skip 
+this round entirely.
+
+                       
+SeriesA
+ 
+You know youÕre ready to raise your SeriesA when youÕve found 
+product-market 
+Þ
+t, that sweet spot where your product 
+Þ
+ts so well 
+with what customers want.You have strong evidence that you can 
+capture a decent share of  the huge market.YouÕve shown that you 
+can recruitA-players and have a solid team that can execute your 
+vision. 
+SeriesA rounds are more substantial than previous rounds, ranging 
+from 
+$5M to $10M
+.They typically involve a 
+lead investor
+, the 
+Þ
+rst 
+and main investor in a funding round who puts half  or more of  the 
+money into the round.This stage is also when you typically form a 
+board of  directors (outside of  your co-founders), to whom you'll 
+report quarterly on your progress.The typical traction range at this 
+stage is $2-3M/year.  
+To sum it up
+ 
+These numbers are the typical ranges that weÕve seen in the venture 
+world. But just because a company has these traction marks doesnÕt 
+guarantee it Õll be able to raise money successfully. Factors like your 
+location, type of  business, business model and more will impact 
+your fundraising strategy. 
+ 
+
+                       
+Angel investors vs. venture 
+capitalists
+ 
+What is an angel investor?
+ 
+An 
+angel investor
+ is an individual who has accredited investor status. 
+That means they have a million dollars of  investable assets or a really 
+large salary ($200k+/yr).Angels donÕt have to be techies or experts 
+in your industry.They could be your dentist or a friendÕs mom. 
+One of  the main reasons to work with angels is that they make 
+decisions about where to spend their money based solely on their 
+own preferences.They donÕt have investors to consider, business 
+partners to consult, or of
+Þ
+ce politics to deal with.They can write you 
+a check after one meeting if  they like you and your idea. It Õs their 
+money. 
+Angels can help with things other than money as well. Many angel 
+investors are experienced operators who can help you solve real 
+problems. So if  you need guidance on how to build a marketing 
+team or how to create a product roadmap, an angel who has 
+experience in those areas could be a highly valuable partner. 
+One thing to consider before raising money from angels is that they 
+typically write smaller checks, between $1k to $25k.This means that 
+if  youÕre raising $1M, youÕll have to close a lot of  deals if  you only 
+
+                       
+stick with angel investors.Another downside is that angels might not 
+be able to participate in your later rounds when the check sizes get 
+bigger and the valuations get higher. 
+What is a venture capitalist?
+ 
+On the other hand, 
+venture capitalists (VCs)
+ can write larger checks 
+than angels, ranging from $50K to millions of  dollars, with the 
+opportunity to participate in their portfolioÕs later rounds. HereÕs 
+how: a venture capital 
+Þ
+rm raises money from their investors called 
+Limited Partners (LPs)
+.ThenVCs invest all that capital into startups 
+and divide the returns among all the LPs (and themselves). 
+VCs can be extremely well-connected.They often introduce their 
+portfolio companies to otherVCs, potential business partners, and 
+even new hires. In later stages,VCs can also be great board 
+members to help guide the next chapters of  the business. 
+The fact thatVCs have LPs is both a burden and a blessing.A 
+blessing because LPs enableVCs to do their work.Without LPs,VCs 
+wouldnÕt have the capital to invest in startups. But theyÕre also a 
+burden. BecauseVCs are essentially stewards of  their LPsÕ money, 
+theyÕre obligated to invest only in deals they truly believe will give 
+them a 100x return.This means if  aVC invests in a startup at a $1M 
+valuation, they are hoping that your business will exit or IPO for a 
+$100M valuation.  
+
+                       
+The math of  venture capital can be complicated.All you need to 
+really know is thatVCs invest in dozens of  companies expecting the 
+majority of  them to fail.The 1-2 startups that give investors a 100x 
+return will pull up the value of  the entire portfolio.  
+For example, imagine aVC 
+Þ
+rm invested $50k into 100 early-stage 
+startups for a total of  $5M. Ninety-nine of  these startups failed. But 
+the one company that succeeded just happened to be Uber, a 
+company that Õs worth over $100B today.The 
+Þ
+rmÕs $50k investment 
+in Uber would be worth hundreds of  millions of  dollars, which more 
+than makes up for the initial $5M investment.  
+This desire to show big returns to their LPs gives theVC industry a 
+bad reputation. SomeVCs put extreme pressure on founders to 
+grow at a rapid, unsustainable pace. On the other hand, angel 
+investors arenÕt generally looking for a speci
+Þ
+c ROI.  
+If  they love you and your idea, they may invest even if  they think 
+theyÕll only get a 2x or 3x return. Since angel investors have no 
+outside investors to consider, they can afford to be more patient in 
+your companyÕs growth.  
+However, to chase big returns, some angels may still pressure you to 
+sell your company if  that Õll guarantee them a modest 2x return, or 
+advise you to shut it down entirely.  
+
+                       
+So who should you raise from?
+ 
+Any business that expects to exit and aims to provide its investors 
+with a meaningful return on investment (ROI) should consider raising 
+from angelsÉ even if  they also plan to raise fromVCs. HereÕs why. 
+Angel investors are more accessible, will give you money faster, and 
+often roll up their sleeves to help your startup.They can make intros 
+to other investors (which builds momentum during fundraising) and 
+theyÕre likely not running a fund. 
+While anyVC-backable business should strongly consider angel 
+investors, several business models are notVC-backable.And those 
+businesses might be great for angels. For example:  
+!
+Media companies 
+!
+E-commerce businesses 
+!
+Food and beverage businesses 
+!
+Hardware businesses/wearables 
+!
+Brick and mortar businesses 
+These are business models thatVCs don't typically invest in because 
+the overhead is too high to have a meaningful exit.Those types of  
+businesses are more likely to see a 2-10x exit than a 100x exit. 
+VCs are looking for that one big winner like the next Uber or 
+Instagram. If  youÕre aiming to be a billion-dollar company one day, 
+
+                       
+VCs tend to be great partners in the later stages since they can 
+provide you with more capital and direction when youÕre scaling fast. 
+But let Õs state the obvious: a 100x return is extremely tough to 
+accomplish. Investors know this, and they only invest in companies 
+that have the potential to scale fast.There are lots of  things that 
+make a business scalable. But since you donÕt have all day, here are 
+the top three things we look for. 
+1.
+Unit Economics 
+Ð the cost of  acquiring and onboarding a 
+customer compared to how much money you make from that 
+customer 
+2.
+CustomerAcquisition
+ Ð your ability to acquire customers at 
+scale  
+3.
+Exponential Growth 
+Ð when your revenue is increasing at a 
+faster rate than your incurring costs. 
+Both angel investors andVCs would love to invest in a startup with 
+great unit economics, low customer acquisition costs, and rapid 
+exponential growth.We recommend raising from angel investors 
+Þ
+rst for speed.Then considerVCs if  you have a business that can 
+potentially scale to deliver a 100x exit. 
+ 
+Startups in the ÒviceÓ categories (think alcohol, cannabis, 
+gambling) will likely have more success with angels thanVC 
+firms.This is becauseVCs usually have a Òno viceÓ clause that 
+they adhere to.Whereas angels can invest in whatever they want.
+
+                       
+Incorporate your company in 
+Delaware 
+Hustle Fund GP Eric Bahn made a huge blunder when he started his 
+education startup: he formed a California LLC instead of  a Delaware 
+C-corp.When Eric later sold this business, his tax accountant told 
+him that if  he had switched to a Delaware C-Corp, he would have 
+saved a 
+ton of  money
+ on taxes upon his exit.  
+Learn from EricÕs mistake and incorporate your company in 
+Delaware. HereÕs why Delaware C-Corps are so advantageous.  
+Bene
+Þ
+t #1: Delaware is business-owner friendly 
+Delaware has corporate governance laws that are basically simple 
+rules around compliance and in cases of  things like lawsuits.These 
+laws were written to help business owners stay in business. 
+Delaware is a business-favorable state. So it's more relaxed and 
+easier to do business in Delaware in comparison to other parts of  
+the US. 
+Bene
+Þ
+t #2:YouÕll save a ton of  money on
+ 
+taxes
+ 
+ThereÕs this thing called the 
+Quali
+Þ
+ed Small Business Stock (QSBS)
+. 
+If  your business is a Delaware C-Corp and has been around for more 
+than 
+Þ
+ve years before getting acquired, you could potentially be 
+
+                       
+exempt from paying federal taxes when your company gets 
+acquired or IPOs. 
+That Õs a huge deal. If  Eric had converted the business to a Delaware 
+C-Corp, he would have faced a much lower federal tax bill when his 
+business was acquired thanks to QSBS.  
+There are a lot of  potential federal tax exemptions only available for 
+Delaware C-Corp businesses.This bene
+Þ
+t also applies to investors. 
+TheyÕll be exempt from paying taxes in many scenarios thanks to 
+QSBS. So everyone gets to keep more money upon an exit.  
+WeÕre not lawyers. Do your research on QSBS and read all the 
+nuances on DelawareÕs of
+Þ
+cial page. 
+Bene
+Þ
+t #3: It Õs favorable to investors who are 
+buying shares 
+Imagine Eric invests in a cycling software business and it Õs doing 
+really well. Like $20M in revenue every year. In this hypothetical 
+situation, Eric wouldnÕt need to personally pay any taxes along the 
+way even though heÕs a part owner of  the business. Eric would only 
+pay taxes on the gains he makes when this startup gets acquired or 
+IPOs. 
+Just one of  many unusual and wonderful treatments of  taxes that 
+you can 
+Þ
+nd with Delaware C-Corp structures. 
+
+                       
+It Õs super easy to 
+ß
+ip to a Delaware C-Corp 
+There are lawyers and possibly automated legal services that can 
+help you switch over to a Delaware C-Corp. So if  youÕre running a 
+venture-backed business, switch to a Delaware C-Corp and keep 
+more money upon your exit. 
+Breaking down equity, SAFEs, 
+and dilution
+ 
+If  you want to fundraise, you need to know what SAFEs are and how 
+dilution works. Because if  you donÕt, you may accidentally give away 
+too much equity and be left with very little at the end.  
+Let Õs break it down using my favorite food. Imagine you have a pizza 
+in front of  you. In the beginning, you and your co-founder(s) own 
+100% of  this pizza (aka your company).  
+ 
+Photo by 
+Vit Ch
+ on 
+Unsplash
+ 
+
+                       
+Now let Õs assume this pizza is worth $20.  
+Your objective is to grow the value of  your pizza. It could be worth 
+$20 now, but in 10 years, your pizza could be valued at $1B. So how 
+do you grow the value of  the pizza?You give away slices of  the pizza 
+to strategic people Ð investors, advisors, and key employees Ð who 
+will massively help you. 
+Every time you give away a slice of  pizza, youÕre actually giving away 
+equity
+ in the business. Equity means ownership in the company. So 
+if  an investor has 5% of  the equity in your business, they own 5% of  
+your company.  
+Now, it Õs unavoidable that youÕll lose some ownership of  the pizza as 
+you raise money. But these strategic people that you gave slices to 
+can help bring the valuation of  the entire pie from $20 to $1M to 
+$100M and hopefully to $1B. Even if  you only own 15% (equity) of  
+the pie (your company) by the end, if  it Õs valued at $1B, then your 
+slice will be worth $150M. It Õll be easier to accept that you donÕt own 
+the other 85% of  the pizza because your small slice is so valuable on 
+its own.  
+But you need to be careful about giving away your pizza slices.As 
+you can see, one small slice in the beginning can be worth millions 
+of  dollars down the line. Every time you give equity away means that 
+you (the founder) will have less ownership over your own business.  
+
+                       
+Equity will translate to dollars when you IPO or get acquired, so you 
+want to maintain enough equity to stay motivated to keep working 
+on the business. So hereÕs the million-dollar question: How much 
+pizza should you expect to give away when you raise money?  
+This will depend largely on the amount your startup raises and the 
+valuation at which you raise.We typically see founders give away 
+10-20% of  their pizza per fundraising stage.The gold standard is for 
+the founders to still own the majority (more than 50%) of  the pizza 
+after their SeriesA round. It Õs common to lose the majority by the 
+time you raise your Series B. But as I mentioned earlier, this shouldnÕt 
+bother you if  the value of  the pie is high enough. 
+ 
+What SAFEs are and why you should care
+ 
+SAFE 
+stands for Òsimple agreement for future equity.Ó SAFEs arenÕt 
+slices of  pizza directly, but think of  it like a ticket for a slice of  pizza. 
+You give these tickets to investors, which gives them the right to 
+come back to you later to claim their slice (assuming the pizza is still 
+alive and edible). 
+In non-pizza terms, a SAFE isnÕt equity you sell to your investors, 
+rather it Õs the promise of  equity in the future.Think of  SAFEs almost 
+like an IOU; youÕre not issuing any equity yetÉ but once you have an 
+equity 
+Þ
+nancing round, an acquisition, or an IPO, that SAFE will get 
+converted into equity. If  your startup crashes and burns, the SAFEs 
+are worthless. 
+
+                       
+There are two kinds of  SAFEs: 
+a pre-money SAFE and a post-money 
+SAFE
+.WhenY Combinator created the SAFE in 2013, it started as a 
+pre-money safe.This is important Ð remember this. 
+These SAFEs were open-source documents that have become the 
+standard for founders to use when raising money.Without a SAFE, 
+founders had to pay lawyers to draft a new contract from scratch. 
+This was expensive and complicated to manage. SAFEs made it 
+easier and more cost effective for founders to raise their earliest 
+rounds. 
+But it had an unintended consequence. Founders wondered, 
+ÒA  
+priced equity round takes a lot of  paperwork, negotiation, and legal 
+fees, which can easily cost me $20k.Why donÕt I raise my entire 
+round via pre-money SAFEs? I can just download it from theYC 
+website and keep my costs low.Ó 
+So founders started raising $2-3M rounds via SAFEs. But once they 
+were ready to raise a priced equity round, founders weren't sure 
+how much of  the company theyÕd actually sold.TheyÕd sliced the 
+pizza in all kinds of  weird shapes and sizes and never kept track of  
+who owned what because of  the nature of  pre-money SAFEs. 
+ 
+By the time all those people with pizza tickets come back to claim 
+their slices, the founders may realize they have the smallest slice out 
+of  everyoneÉ which can kill their incentive to grow the value of  the 
+pizza.  
+
+                       
+We know a founder who raised a bunch of  money via pre-money 
+SAFEs. He didnÕt realize his equity had been diluted so much until 
+he tried to raise his equity round.This founder discovered he only 
+owned 35% of  the company at the seed stage, which is no bueno. 
+We'll share exactly how all of  this works with some easy numbers 
+later in this chapter. But for now, Eric offers this warning,  
+ÒIt is really easy to mess up these calculations when you have so 
+many different kinds of  pre-money valuations stacking on top of  each 
+other with capital that you raised before your SeriesA, or whenever 
+your post-money raise takes place.Ó 
+Why founders are using post-money SAFEs 
+instead
+ 
+To rectify the unintended consequences,YC later introduced post-
+money SAFEs.They wanted founders to have clarity on how much of  
+the company theyÕre selling.  
+HereÕs the magic equation: (investment) / (post-money valuation) 
+!
+Example #1:The founder raises $500k on a $5M post-money 
+valuation. $500k / $5M = 10%.This founder has sold 10% of  
+the company. 
+
+                       
+!
+Example #2:The founder raises $1M on a $5M post-money 
+valuation. $1M / $5M = 20%.The founder has sold 20% of  the 
+company.  
+The math of  what youÕve invested at the post-money valuation is 
+simple and clear.This calculation is better for both the founders and 
+investors because you know the exact percentage of  pizza youÕre 
+giving away.  
+To sum it up
+ 
+Focus on growing the value of  your one pizza. Be strategic in who 
+you sell your pizza slices to because you want to own as much of  
+your company as possible.  
+If  you use pre-money SAFEs, learn how to calculate and keep track 
+of  how much pizza youÕve sold. Instead, use post-money SAFEs to 
+have clarityÉ and sleep well at night knowing you still have enough 
+pizza in the fridge to enjoy later. 
+ 
+
+                       
+How to determine a valuation for 
+your startup
+ 
+A 
+startup valuation
+ is the 
+Þ
+nancial value of  a startupÕs equity at a 
+given point in time. In other wordsÉ how much your startup is 
+worth.  
+Unlike public companies Ð where the stock is listed on an exchange 
+and 
+ß
+uctuates throughout the day based on trading activity Ð private 
+startup valuations are agreed upon by the investors and the 
+founder(s) when the startup goes out to fundraise. 
+This valuation is based on a variety of  factors: 
+!
+How much revenue the business has 
+!
+Business experience of  the founders 
+!
+Competition in the market 
+!
+Macro market conditions 
+!
+Investor demand  
+The last point on Òinvestor demandÓ is one you should de
+Þ
+nitely pay 
+attention to.While the other factors do matter, a startupÕs valuation is 
+not actually about how much your company is worth, but about the 
+supply and investor demand of  your round
+. Let me explain. 
+Example #1: 
+ 
+Imagine your goal is to raise $200k at a $1M valuation. But you 
+discover that you have a lot of  investor demand. In fact, these 
+
+                       
+investors are offering a total of  $500kÉ $300k more than youÕre 
+aiming to raise.  
+This means you have more demand in your company than available 
+equity, so you can safely increase your startupÕs valuation and still 
+secure the capital youÕre looking for. 
+Example #2: 
+ 
+Imagine your goal is to raise $2M at a $5M valuation. But no one is 
+interested.Then your valuation is, wellÉ $0. Because thereÕs no 
+investor demand to participate in your startupÕs round.  
+You canÕt raise money at a $0 valuation. But you can lower your 
+valuation to a sweet spot where youÕll get to investor demand. 
+Alternatively, you could improve your pitch deck to try and convert 
+more investors. Or you could work to grow the business and ÒearnÓ 
+your desired valuation.
+ 
+In practical terms, determining your valuation is less about your 
+ÒactualÓ worth and more about what investors are willing to pay. So 
+founders can set a value for their own startups, butVCs will also 
+perform due diligence to determine a valuation theyÕd feel 
+comfortable investing at.The two sides may then negotiate an 
+acceptable valuation for both parties.  
+Still with me?  
+Because there are two different kinds of  valuations that you should 
+know: the pre-money valuation and the post-money valuation.
+ 
+
+                       
+Pre-money and post-money valuation
+ 
+The 
+pre-money valuation
+ is the valuation of  the business before it 
+receives any outside investment. 
+The pre-money valuation doesnÕt take into consideration the money 
+the founder is planning to raise. So if  a startup has a pre-money 
+valuation of  $2M, and sheÕs planning to raise an additional $500K, 
+her pre-money valuation is still just $2M.  
+This number is important because it tells investors how much theyÕll 
+need to put in to purchase their desired equity stake.The pre-money 
+valuation will usually change every time the startup raises a new 
+round of  
+Þ
+nancing.  
+For instance, a seed-stage startup might raise at a $5M pre-money 
+valuation.After 12-18 months of  growth, it Õll return to raise its Series 
+A at a $10M pre-money valuation.The increase in pre-money 
+valuation would represent the additional value the startup has 
+created by acquiring more customers, improving its product, 
+building its brand, etc.  
+Let Õs take the example of  the company with a pre-money valuation 
+of  $2M. If  an investor wants to purchase a 20% equity stake, it means 
+that the investor will need to put in $500k at a $2.5M post-money 
+valuation. ($500k / $2.5M = 20%).  
+As the name suggests, the 
+post-money valuation
+ is the startupÕs 
+valuation 
+after
+ receiving outside investment. Unlike the pre-money 
+valuation, the post-money valuation is easy to determine: simply add 
+the investment amount to the pre-money valuation. 
+
+                       
+A startup on a good trajectory should see its post-money valuation 
+increase with every new 
+Þ
+nancing round (i.e., investors should view it 
+as growing in value). If  the post-money valuation goes down round-
+over-round, it Õs called a 
+down round
+ and could signal the business is 
+in peril. 
+High valuations arenÕt always a 
+good thing
+ 
+While high valuations leave founders with a larger percentage of  
+ownership in their startup, thereÕs more to consider. 
+Consideration #1: Investor incentives
+ 
+We already know that investors can be really, really helpful. But with 
+24 hours in a day, theyÕre only able to give meaningful help to their 
+highest-priority investments.  So if  an investor has a 1% stake in your 
+business and a 10% stake in another business, and you're at the 
+same stage, which company do you think they'll dedicate more 
+resources and time towards? 
+Consideration #2: Startups need time to grow 
+into valuations
+ 
+Let Õs say a founder generates interest in her idea or an early version 
+of  her product. She raises money at a $12M post-money valuation. 
+
+                       
+She uses that money to improve the product, acquire users, and hire 
+a few people.After 8 months of  working on the business, the 
+founder doesnÕt see the traction she was hoping for.And sheÕs out of  
+money. She decides to raise another round of  funding. 
+Only this time, investors have less conviction in her business. Since 
+she hasnÕt proved that her idea is successful, they might recommend 
+a lower valuation, but that can look really bad. Decreasing the 
+valuation is a signal to investors that there is something wrong with 
+the business.And since investors see anywhere from 10 to 1000 
+pitches every month, theyÕre more likely to invest their money in a 
+new company instead of  writing this founder another check.  
+Ironically at the time of  this writing (January 2023) where capital is 
+really tight, down rounds are not negative signals. It Õs a sign that 
+someone wants to invest. So this is the exception to the rule. 
+Consideration #3: Recruiting 
+Most startups donÕt have the capital to offer competitive salaries to 
+high-quality talent.That Õs where the ESOP comes in. By attracting 
+talent with stock options, founders are able to conserve cash while 
+employees feel like they have ownership of  the company.Those 
+employees are incentivized to work really hard to make the business 
+successful because if  the business does well, their options will be 
+worth aTON of  money. Right? 
+
+                       
+HereÕs the problem: joining a team with a high valuation means that 
+the price for the stock options is also high. Employees will realize 
+that they canÕt actually afford to buy their options.  
+Couple that with the low salary and long hours, and they wonÕt be 
+incentivized at work.This can lead to ugly company culture and low 
+productivity.  
+The savvy people who are smart enough to ask about valuation and 
+exercise price will realize that the opportunity isnÕt as good as they 
+thought. So if  you have too high of  a valuation, hiring those people 
+will become very dif
+Þ
+cult. 
+How cap tables, shares, and 
+vesting all work together
+ 
+A cap table is a spreadsheet that lists all the people and entities that 
+own pieces of  your company. In the beginning, there may just be 
+two lines for you and your co-founder. It Õll list your names and how 
+many shares you both own. 
+The shares in themselves are meaningless. But they are meaningful 
+when you see how much of  the pie they represent as a percentage. 
+Every time you give a slice of  pizza to an investor or a key employee, 
+they will be granted shares and have some equity in the pie.Their 
+
+                       
+name will then be added to the cap table with the respective % 
+numbers next to their name.  
+HereÕs an example of  what a cap table looks like.You can also make 
+a copy of  our template 
+here
+.  
+ 
+In this example, our post-money valuation is $10M. New investors 
+are coming in for $2.5M.That means they now own 25% of  the 
+business.The cap table also has an ESOP pool of  15% (more on 
+what that is below).Which leaves the founders with 60% ownership 
+after the investment round.  
+
+                       
+Founders get 
+common shares
+ while investors earn 
+preferred shares
+. 
+There are three main differences. 
+!
+Voting power: Common shareholders get to vote on important 
+company decisions whereas preferred shareholders usually 
+donÕt have voting rights. 
+!
+Dividends: Preferred shareholders get preference on liquidity 
+when the company IPOs/exits.This means they get paid out 
+before the common shareholders.  
+!
+Risk: Common shares are a bit riskier. If  the company has to 
+close down, founders will be the last to get any money back 
+from what's left, whereas preferred shareholders may recoup 
+some of  their money. 
+Founders and employees earn shares by working for the startup, but 
+their shares typically 
+vest 
+across four years.This means they donÕt 
+get all the shares upfront when they start working at the company.  
+A typical vesting schedule is as follows: 
+!
+The employee earns 25% of  their allocated equity after 
+working for the company for 1 year 
+!
+Over the next 3 years, they earn the remaining 75% of  their 
+equity on a monthly basis. 
+
+                       
+Once a founder or an employee has vested some shares, that Õs 
+technically just a right to exercise the option to buy those shares for 
+a cheap price (in most cases). Once your shares have vested, you 
+can exercise or buy your options Ð pay the cheap price to get your 
+shares Ð at any time that you are still at the company.  
+Most people do not exercise their options as long as they are still at 
+a company, because they want to wait and see as long as possible 
+how the company is doing to decide whether or not to spend the 
+money. People typically exercise their options when they leave the 
+company, because once you leave the company, you typically forfeit 
+any options that have vested that you havenÕt bought. 
+If  the company is doing well, buying their vested shares is generally 
+a good deal for the employee (especially early employees) because 
+the price for each share is directly related to the valuation of  the 
+company at the time the employee joined. So an employee who 
+joined a startup early could buy their fully-vested shares at, say $.05 
+per share, even if  the current valuation of  the company at that time is 
+much higher. 
+Vesting prevents people who only stay with the company for a 
+month or two from running away with tons of  shares. Investors 
+expect founders to have vesting in place for everyone.This includes 
+advisors, whose shares typically vest over 1-2 years.  
+You might be wondering, Ò What if  everyone stays on until their 
+vesting schedule is complete and exercises all their options?ÓThen 
+
+                       
+youÕll have a 
+fully diluted cap table
+ where everyone who was 
+allocated shares will indeed get all their shares. 
+ 
+When you raise money from investors, they will often ask you to 
+create an 
+employee stock option pool (ESOP)
+.This means setting 
+aside some shares for your employees to incentivize them to stay 
+longer and do great work. Investors typically expect founders to set 
+aside 10% of  the pie for ESOP but this percentage amount can be 
+negotiated. 15 years ago, this percentage was typically 15-20%, and 
+we may revert back to that if  the markets get worse.  
+An ESOP can dilute the cap table faster than you might expect. For 
+example, if  youÕre being diluted down by 20% by the next round of  
+If  investors are investing on a SAFE, they technically do not own 
+shares at that point. Remember the last chapter? Investors using 
+SAFEs will have a ticket to claim the pizza later, but not actually 
+own the slice in that present moment. So these investors will NOT 
+be added to the cap table until their SAFEs/notes convert into 
+actual shares. 
+This is another reason why founders don't realize how much of  
+the pie everyone owns.There are investors who have invested 
+money but arenÕt technically on the cap table yet.We 
+recommend founders use 
+Pulley
+ (a plug for one of  our portfolio 
+companies), which makes cap tables super easy to understand 
+even if  someone invested through SAFEs.
+
+                       
+investmentAND you have to create a 10% option pool in the same 
+transaction, you are actually being diluted down by 30%. If  a 
+departing team member doesn't use their vested options, the 
+unvested and unused options will be forfeited and added back to 
+the ESOP. But still, this is more dilution than most founders realize 
+when they go to raise money.  
+Cap tables have been traditionally hard to organize just using 
+spreadsheets, especially when you have many SAFEs and 
+shareholders. It Õs rare to see founders do accurate cap table math at 
+each fundraising round. Even our team of VCs can miscalculate data.  
+This is why we recommend using a cap table management tool so 
+you can have an accurate view on your current cap table, as well as 
+compute different scenarios quickly and easily.  
+Be aware of  the current market 
+conditions
+ 
+At the time of  publishing this book, it Õs the start of  2024. Fundraising 
+right now is tough, especially for seriesA and beyond.The truth is 
+thatVCs arenÕt investing as much in the later stages.Why the sudden 
+change?  
+Well, there are a lot of  factors. 
+
+                       
+1.VCs are having a harder time raising funds
+ 
+Just like many startups,VCs have to raise money from their LPs 
+(remember, an LP is someone who invests in a venture capital 
+Þ
+rm). 
+Interest rates are high, and many LPs are opting to put their money 
+into other assets like a savings account that earns interest there 
+rather than invest in aVC fund.
+ 
+This givesVCs less capital to work with, so they become more 
+conservative with their cash.VCs will be extra selective about 
+investing in new companies, or theyÕll focus more on reinvesting in 
+and bolstering their existing portfolio companies. 
+2. Companies are valued less
+ 
+If  there are fewer investors (supply), thereÕs more competition 
+amongst startups to raise money (demand).This means investors 
+can usually negotiate terms that are more bene
+Þ
+cial for themselves 
+rather than for founders. But it Õs not all sunshine and rainbows for 
+investors, either. 
+Founders that do raise successfully tend to have lower valuations 
+than in the last few years Ð when the market favored founders over 
+investors. So a company that raised a pre-seed round at a relatively 
+high valuation (say, $8M), is raising their seed-round at a relatively 
+lower valuation (say, $10M). Some companies are having such a hard 
+
+                       
+time raising, they might not see any increase in valuation from one 
+round to the next. Or their valuation will actually go down. 
+When a companyÕs valuation fails to increase, theVCs who invested 
+at the earlier stages are left with a portfolio that Õs worth less than 
+what they expected or planned for.A rough rule of  thumb is that 
+founders should aim to double their valuation every round. 
+But there is cash Ð this is not 2008
+ 
+This section isnÕt intended to be all doom and gloom.The good 
+news: 
+!
+Seed stage investors are less affected 
+!
+Deals are happening but all stages are just moving slower 
+The bene
+Þ
+t of  a less frothy market is that it forces you to think about 
+how much cash you actually need. Elizabeth suggests thinking about 
+your cash needs in two ways: 
+1. Stop the bleeding
+ 
+Founders often say,
+ ÒI need to raise $2M.Ó
+ Do you really? Probably 
+not. 
+Instead, ask yourself:What is the minimum requirement to keep the 
+company running? How can you reduce your burn rate? How can 
+you cut expenses?Are there creative ways to generate revenue in 
+the interim? 
+
+                       
+Remember: theAirbnb founders sold 
+cereal boxes
+ to keep the 
+company alive in the early days.  
+2. Long-term planning
+ 
+If  you can stop the bleeding, then how much cash would help you 
+with long-term planning?Think through your long-term vision, goals, 
+metrics, product development, hiring, etc. How much capital would 
+you need to hit those milestones?  
+Is the answer still $2M? Maybe. Or maybe it Õs a smaller number.You 
+should aim to raise enough cash to cover both your short-term and 
+long-term needs. However, if  that's not possible, de
+Þ
+nitely prioritize 
+the stop the bleeding strategy 
+Þ
+rst. 
+ 
+
+                       
+Best times of  the year to 
+fundraise
+ 
+When Eric was trying to raise money as a founder, he had no idea 
+VCs were on vacation, like, all the time.VCs would auto-respond 
+with OOO messages saying theyÕre skiing inJackson Hole. Or on a 
+beach in Mykonos. Or Ò
+Þ
+nding themselvesÓ at Burning Man.  
+This might sound super weird if  youÕre not from SiliconValley.Why 
+areVCs always on vacation?After lots of  trial and error, we 
+Þ
+gured 
+out the best timeVCs are active to take meetings with founders. 
+Good:January Ð February
+ 
+The 
+Þ
+rst part of  the year is a good window of  time to start 
+fundraising. However, there are a few important things to note: 
+!
+The 
+Þ
+rst week of January is an extension of  the end-of-year 
+holidays. So if  you raise in the new year, wait until the 2nd or 
+3rd week of January. 
+!
+ManyVCs have kids in school who have mid-winter breaks in 
+the middle of  February.This is the perfect opportunity to take 
+the family toAspen orJackson Hole for a mini ski vacation 
+forcing them out of  the of
+Þ
+ce.  
+
+                       
+Best: March Ð May
+ 
+Spring is the best time to fundraise.There arenÕt too many major 
+holidays.The weather is amazing.Yeah, thereÕs usually a spring 
+break but mostVCs are working. 
+It Õs normal forVCs to meet you in person outside at the Rosewood 
+Hotel. Or take a walk with you somewhere on Sand Hill Road. Or 
+grab coffee together at Coupa Cafe in PaloAlto.You know, Silicon 
+Valley things. 
+Decent:June ÐJuly
+ 
+School is out!VCs usually go on another vacation to spend time with 
+family. But there is still some activity happening in bothJune and 
+July. Besides the 4th of July holiday,VCs are fairly responsive.  
+All in all, the 
+Þ
+rst half  of  the calendar year is a pretty good time to 
+start the fundraising process.  
+Worst:August
+ 
+August is the absolute worst time to raise money.VCs basically take 
+the entire month off  for summer vacation.TheyÕre somewhere in 
+Ibiza, Mykonos, or Croatia enjoying the sunshine. 
+
+                       
+ThereÕs also Burning Man at the end of August.This is whenVCs go 
+off  to the desert wearing ridiculous costumes and return after a 
+week covered in dust. So youÕre probably not going to get any 
+meetings withVCs inAugust.  
+Good: September Ð November
+ 
+This is EricÕs favorite window to fundraise.VC 
+Þ
+rms host annual 
+meetings in the Fall to bring their LPs together and they also invite 
+some of  their portfolio founders to meet everyone. 
+Investors rush to do deals before the end of  the year.ThereÕs great 
+activity happening everywhere.  
+Bad:AfterThanksgiving Ð December
+ 
+In the United States, we have this major holiday calledThanksgiving. 
+It happens every year on the 3rdThursday of  November. It Õs a pretty 
+big deal. Schools are closed. No one really wants to work that week. 
+But it turns out that the feeling of  not working basically extends 
+through the end of  the year. 
+Of  course, mostVCs come back to work afterThanksgiving. But Eric 
+has been inVC of
+Þ
+ces around this time.ThereÕs eggnog and snacks 
+everywhere. Michael Buble's music is playing in the background. 
+The energy is super low key.  
+
+                       
+VCs may take a few meetings here and there. But theyÕre not doing 
+that much.AndVCs are off  again for Christmas break until early 
+January.Where the cycle starts all over again. 
+These are not hard-and-fast rules
+ 
+We are speaking generally of  theVC world. Getting a fast response 
+fromVCs depends a lot on theVCs themselves.The Hustle Fund 
+team works year-round because weÕre young and hungry to make 
+big things happen. NewerVCs are more like startups, so weÕre a bit 
+different from other funds. 
+Outside of VCs, angel investors tend to be active year-round, too. 
+Keep this tip in your back pocket if  youÕre looking to close a round in 
+a month whenVCs are out of  of
+Þ
+ce. 
+
+                       
+CHAPTER THREE
+ 
+The essentials of a 
+killer pitch deck
+ 
+ThereÕs a popular saying that ideas without execution are useless. 
+Well, I have a new twist to this quote.  
+ÒIdeas that you canÕt clearly communicate to others are useless.Ó 
+If  you canÕt communicate your ideas, no one will understand you. 
+And if  no one understands you, no one will buy your product or 
+invest in your company.This means great communication is 
+everything.  
+After reviewing thousands of  pitch decks and raising $100M for 
+Hustle Fund, Eric has deduced the 
+Þ
+ve most essential parts for a 
+great pitch.  
+
+                       
+1.
+team 
+2.
+problem 
+3.
+solution 
+4.
+market 
+5.
+traction 
+Your odds of  success skyrocket if  you have just these 
+Þ
+ve slides 
+nailed down. Let Õs break down each one.  
+Team
+ 
+The most important thing Eric cares about in pre-seed companies is 
+the team. Since pre-seed startups often have no customers or 
+traction, thereÕs very little to judge them on, outside of  the people 
+behind the idea. Because at the end of  the day, investors are not just 
+investing in your idea; they are investing in you and your co-
+founders.  
+Eric wants to see two main things: 
+1. Relevant skills + background
+ 
+Let's say you have an idea for a business that would eradicate 
+COVID. Obviously, this is a pretty intriguing idea: COVID is a big 
+problem and people would almost certainly be willing to pay for a 
+solution. But it doesn't matter how big the problem is if  an investor 
+doesn't believe you're the right team to solve it.
+ 
+
+                       
+So if  you want to go into the COVID-eradication business, but your 
+background is in social media marketing... no investor will back you. 
+But if  your background is in developing medicine and your co-
+founder's background is in bio-medical sales... that's a different 
+story. 
+When you're pitching your team to an investor, consider how you 
+can convince her that 
+your team is uniquely positioned to solve this 
+problem
+.And that con
+Þ
+dence won't just come from pedigree. 
+Going to a fancy school or working at a brand-name tech company 
+won't cut it. 
+Let's say your business helps musicians build a bigger audience.You 
+should include a few sentences about your experience as a musician 
+in your pitch.This will show the investor that you deeply understand 
+your customers' pain points. and that you have connections within 
+the music industry, which will help with customer acquisition. 
+ 
+Work on problems where your team has a competitive edge. Show 
+investors why your unique background is ideal for your business. 
+2.Your co-founder relationship
+ 
+Building a company is hard.There are days and weeks when it feels 
+like nothing is going right.There are nights and weekends when you 
+don't see your family because you're grinding so hard. Having a co-
+founder isn't essential... but it can help. 
+
+                       
+The thing is, co-founders often come with drama.When co-founders 
+don't work well together, a lot of  stuff  goes wrong.They 
+Þ
+ght about 
+the product roadmap.They disagree on which candidate to hire. 
+They stop including each other in important meetings.And this 
+drama leads to even bigger problems. 
+Employees get tired of  the in-
+Þ
+ghting and leave for a company with 
+a better culture.When employees leave, responsibilities go 
+unful
+Þ
+lled. Customers notice and stop renewing. Investors see all of  
+this and decline to participate in future fundraising rounds. 
+The book 
+The Founder Dilemma
+ cites that 6 out of  10 startups fail 
+because of  co-founder con
+ß
+ict.That Õs why it Õs so important for 
+investors to feel con
+Þ
+dent in the co-founder relationship.They want 
+to know that co-founders can make decisions together, 
+communicate openly, share the burden of  work, and disagree 
+without tearing the company apart. 
+So when you're pitching the "team" portion of  your company to an 
+investor, show that you and your co-founder are a good 
+Þ
+t. For 
+example: 
+!
+you're hackathon buddies 
+!
+youÕve put on an event together 
+!
+you've shipped a product before 
+!
+you worked together closely at your last company 
+
+                       
+Something to prove to the investor that youÕve weathered storms 
+before and you can take on future challenges that Õll eventually arise. 
+Problem
+ 
+Your pitch deck's problem slide is arguably the most important slide 
+in your deck after the team. Even if  you've developed the most 
+innovative, cutting-edge technology the world has ever seen, 
+people won't buy it if  it's not solving a real problem.And if  no one is 
+buying your product, investors wonÕt have any incentive to write you 
+a check. 
+Every unicorn business: 
+1.
+solves a real problem... 
+2.
+... that's important enough for people to pay to 
+Þ
+x 
+3.
+... and applies to a large audience 
+If  your problem slide doesn't quickly demonstrate those three 
+points, investors might not even look at the rest of  the deck. So this 
+slide is super important.  
+Now, it Õs possible that you are solving a huge problem but you stink 
+at explaining what that problem is.This can cause investors to make 
+some assumptions about the business and think things like: 
+!
+This isnÕt 
+that 
+big of  a problem 
+
+                       
+!
+This is a huge problem, but people wonÕt pay for the solution 
+(either because it Õs too expensive or too complicated) 
+!
+The founder hasnÕt done enough customer research to 
+understand the problem 
+Your problem slide should give ef
+Þ
+cient and compelling responses 
+to these three questions: 
+!
+What is the problem? 
+!
+How do you know it's a problem? 
+!
+Who needs a solution to this problem? 
+Here is an example of  an 
+ineffective
+ problem slide: 
+1.
+Airbnb hosts don't know how to market their homes to 
+travelers 
+2.
+The averageAirbnb is vacant 15 days a month 
+3.
+There are no tools designed forAirbnb hosts to increase their 
+bookings 
+What's the problem with this example? Let's dissect it: 
+ 
+This is a broad, general statement with no data to back it up. 
+ÒAirbnb hosts don't know how to market their homes to travelers.Ó
+
+                       
+ 
+This doesn't capture the importance of  the problem. 
+ 
+A quick Google search shows me there are tools out there. 
+Inaccurate statements raise red 
+ß
+ags for investors. It makes us think 
+that you either aren't honest or you haven't done your research. 
+OK let Õs take the same points and tell a more effective story. HereÕs 
+our new and improved problem slide: 
+1.
+We surveyed 300Airbnb hosts and found that 55% donÕt get 
+any bookings for 3 months 
+2.
+The averageAirbnb host is leaving $2,000 a month on the 
+table because of  vacancies 
+3.
+Existing tools don't offer incentives for hosts to continue using 
+the platform, so they have extremely low retention rates 
+Let's dissect why this problem slide is more convincing: 
+ 
+This shows us that you've done loads of  customer research. 
+Ò The averageAirbnb is vacant 15 days a month.Ó
+Ò There are no tools designed forAirbnb hosts to increase their 
+bookings.Ó
+Ò We surveyed 300Airbnb hosts, and found that 55%  
+donÕt get any bookings for 3 months.Ó
+
+                       
+ 
+This quanti
+Þ
+es the problem your customers are facing and makes 
+the problem tangible, speci
+Þ
+c, and big. 
+ 
+This demonstrates that you understand why other companies are 
+failing and point to how your solution will be different. 
+See the differences? Investors want to see that youÕve done your 
+homework. Share how you arrived at your problem statement. 
+Include data that youÕve gathered from your customer research. Get 
+speci
+Þ
+c by using real numbers that matter.This will better convince 
+investors that what youÕre working on is a massive problem.  
+Solution
+ 
+There are 3 important things to consider when putting together your 
+ÒsolutionÓ slide: 
+1.
+Differentiation 
+2.
+Framing your story 
+3.
+Product vision 
+Ò The averageAirbnb host is leaving $2,000 a month on the table 
+because of  vacancies.Ó
+ÒExisting tools don't offer incentives for hosts to continue using the 
+platform which leads to extremely low retention rates.Ó
+
+                       
+1. Differentiation (aka: how to stand out)
+ 
+Did you know investors see decks that are pitching the same 
+business all the time?  
+To stand out amongst the crowd, you must show investors what Õs 
+different about your solution. Now, weÕre not talking about the nitty-
+gritty details here. Speci
+Þ
+cs like ÒweÕre more affordable!Ó or Òwe 
+have an app!Ó are not compelling.What is compelling to investors is 
+having a unique approach.  
+HereÕs an example: 
+Let Õs say IÕm building a marketing automation platform. Investors 
+might see 10 pitch decks about marketing automation platforms 
+each week. So, how can I make sure my deck stands out? For 
+starters, I can state the obvious: Marketing automation is crowded. 
+But if  you dig into it, the most successful companies focus on a 
+speci
+Þ
+c audience. 
+!
+Hubspot is marketing automation for content creators. 
+!
+Marketo is marketing automation for SaaS companies. 
+!
+Hootsuite is marketing automation for social media managers. 
+ 
+My company, BookingPop, is marketing automation forAirbnb hosts. 
+By focusing on the most differentiated component of  my business Ð 
+the audience Ð I'm showing investors that I've discovered an 
+
+                       
+untapped opportunity in the marketing automation industry. Pretty 
+cool, right? 
+2. Framing your story (especially when 
+investors hate your space)
+ 
+Unfortunately, having a differentiated solution isn't enough when 
+you're in an industry that investors won't touch. Let's say IÕm building 
+a media company for teachers. My business will include a newsletter, 
+Facebook group, and events. 
+Here's the problem: investors donÕt like media companies.This is 
+because media companies typically earn revenue through 
+sponsorship or ad dollars, and those require a massive audience to 
+bring in meaningful revenue. So instead of  pitching my business as a 
+media company, IÕm going to pitch it as a data business. 
+For example:There is not currently a database of  teachers in the 
+United States. My company, CoolSchool, will collect dozens of  data 
+points on this audience, which we can use to sell products, services, 
+and memberships. 
+In this example, IÕm not changing the core elements of  my business. 
+But the newsletter, Facebook group, and events are a means by 
+which IÕll collect the data.And I know that investors love data 
+companies Ð because there is so much you do with data once you 
+
+                       
+have it ( just ask Meta) Ð so this frames my business in a way that is 
+compelling to them. 
+3. Product vision
+ 
+If  youÕre a 
+Þ
+rst-time founder in the early stages, your product or 
+service is likely terrible right now.That Õs honestly OK.VCs are not 
+expecting perfection from anyone who has barely graduated from 
+the idea stage.When you explain your solution, donÕt focus on what 
+you have right now. Instead, sell them on your product vision. 
+!
+What will the next six months or year look like? 
+!
+What are the milestones youÕve set for yourself  along the way? 
+Investors want to know how youÕre thinking about the future:Are 
+you clear about what needs to be accomplished next? Do you have 
+ambitious plans? How fast can you move? Reassure investors that 
+you know exactly where youÕre going and the only thing missing is 
+some capital to help you get there.  
+Market
+ 
+As we mentioned in our chapter ÒShould you raise from angel 
+investors orVCs?Ó, both groups have different investing strategies. 
+At Hustle Fund, we have a simple question that helps us with all our 
+
+                       
+decision-making: 
+Do we believe that you are a founder with the right 
+team and market to support a 100x outcome?
+ 
+Eric also angel invests in companies outside of  Hustle Fund. He has 
+invested in non-software companies, small businesses, and even 
+local restaurants in his neighborhood. His mindset as an angel 
+investor is very different.The question he and his wife ask 
+themselves: 
+Do we think this is a company that isnÕt going to lose our 
+money?Will we get any multiple on this investment?
+ 
+ 
+ 
+As an angel investor, if  Eric gets a 10x return on a company, that 
+would be a huge success.A 3x return wouldnÕt be bad at all. But as a 
+VC, a 3x or 10x return will be a failure because it wonÕt be enough to 
+pull up the entire portfolio.Angel investors are happy with hitting 
+bases.VCs are looking to hit grand slams. 
+If  youÕre looking to raise money from a venture fund, make sure 
+your market can be measured in billions of  dollars.
+This showsVCs 
+that there is room to grow and capture a slice of  the huge market. If  
+your market is smaller than that, consider raising from angel 
+investors. During those conversations, ask what success looks like to 
+them to see if  your goals 
+Þ
+t with their vision. 
+ 
+How do you actually nail down your market? Let Õs use Hubspot as an 
+example.They did a great job targeting a niche audience before 
+later scaling to other areas.They started out targeting small business 
+owners speci
+Þ
+cally around things like SEO. But fast forward to today, 
+their products are largely targeted at enterprises.They do email 
+
+                       
+marketing, lead generation, sales pipelines, etc.TheyÕve expanded 
+their offerings along with their audience as they grew. 
+For early startups, you donÕt have many resources. So it Õs really 
+important to go after a speci
+Þ
+c niche.The more targeted and 
+speci
+Þ
+c the niche, the better it Õll be.At the same time, you need to 
+have some vision of  expansion because investors want to 
+understand how this can become a big opportunity (like Hubspot). 
+The best way to display this in a pitch deck is through three circles 
+that describe your different markets. For Hubspot, it can look 
+something like 
+1.
+Small market: SMB SEO tool 
+2.
+Medium market: SMB marketing automation 
+3.
+Large market: Enterprise marketing automation 
+This shows investors the initial market youÕre in now and what your 
+growth plan may look like in the future. 
+Traction
+ 
+If  youÕre really early, you may not have much traction yet, and that Õs 
+OK. But selling before you launch demonstrates that your team has 
+the capability to build an audience. Since customer acquisition can 
+be a business' biggest roadblock, it's compelling to see some 
+information about your 
+go-to market (GTM) strategy
+. 
+
+                       
+!
+Do you have any early users or customers? Having some data 
+on retention here can go a long way. 
+!
+Do you have a pilot program? If  youÕre a SaaS company, having 
+signed contracts before you launch or a pilot group in progress 
+shows you have some promising traction. 
+!
+What are your distribution channels? Do you have marketing 
+experience in these areas?  
+Investors want to see your thought process behind distribution and 
+how youÕll execute your plan.  
+Let Õs take our earlier example of  BookingPop (a marketing platform 
+forAirbnb hosts) and show our GTM strategy. 
+ 
+This is a decent start. Let Õs see how we can make it even better. 
+ 
+Somewhat compelling GTM strategy:
+ 
+!
+Free assessment of Airbnb host Õs listing and comparison to 
+similar listings 
+!
+Tactical webinars led byAirbnb-certi
+Þ
+ed marketers 
+!
+Money back guarantee if  hosts donÕt see booking requests 
+increase in 3 months
+
+                       
+  
+Why is the second example so much more compelling than the 
+Þ
+rst? 
+Because it shows investors that not only are you thinking creatively 
+about your go-to-market strategy, but youÕve already gained some 
+traction. 
+Even if  the numbers arenÕt great, demonstrating that you can move 
+quickly and experiment with different tactics gives investors a reason 
+to believe in your team.They want to see that youÕre making 
+progress and if  youÕre capable of  building the tech, especially if  your 
+product is complicated software.  
+So if  youÕre super early stage, show investors something Ð an MVP, 
+results from your small experiments, or even a Figma design Ð
+!
+will 
+go a long way. 
+Super compelling GTM strategy:
+ 
+!
+Free assessment of Airbnb host Õs listing + comparison to 
+similar listings 
+!
+Results: 200 leads captured, 100 assessments 
+completed, 17% conversion rate into paying customer
+ 
+!
+Tactical webinars 
+!
+Results: 1 published webinar, 100 registrants, 5% 
+conversion rate into paying customer
+ 
+!
+Money-back guarantee 
+!
+Results: Of  the 22 paying customers, 1 requested refund
+ 
+
+                       
+Keep your pitch deck short 
+ 
+For an early-stage company, the pitch deck has one purpose: to 
+drive enough interest in your business to schedule a meeting.That Õs 
+it. It should not (and will not) convince someone to invest in the 
+company. 
+You should be able to accomplish that goal in 5-10 slides, max. If  
+your pitch deck is 12+ pages, you are likely providing too much 
+information.Too much information can be risky because it gives 
+investors more opportunities to 
+Þ
+nd red 
+ß
+ags.  
+For example, if  your pitch deck includes a plan to hire 4 engineers in 
+the next 12 months, but the investor thinks you only need 2, she 
+might pass on the opportunity.That might sound silly at 
+Þ
+rst read 
+but trust us: less is more.  
+Here's the solution: omit unnecessary details so that investors can 
+focus on the details that matter most. Now, if  youÕre thinking, ÒNo 
+problem! IÕll just squish slides 11, 12, and 13 onto one slideÉ shrink 
+down my text, and voila!Ó... please donÕt. 
+Your most powerful elements will get lost in all the noise. Instead, 
+cut anything that isnÕt absolutely necessary. For example: 
+!
+That slide about how many people youÕre going to hire 
+"
+ 
+Focus instead on the amazing team you already have (even if  
+it Õs just you) 
+
+                       
+!
+Those inspirational quotes by Benjamin Franklin 
+"
+ Cut 'em. 
+YouÕre innovating.We get it. 
+!
+Screenshots of  the product 
+"
+These wonÕt be nearly as 
+powerful as a live demo of  your product. 
+!
+Your revenue projections for the next 5 years 
+"
+Tell us instead 
+what about your growth over the last few months. 
+ 
+ 
+If  youÕre having trouble ruthlessly editing your own work, try 
+presenting your deck to someone who knows nothing about 
+your industry. Like a parent, grandparent, or sibling.  
+As you explain your business to someone who doesnÕt 
+understand your industry, youÕll quickly realize what is (and what 
+is NOT) a powerful addition to the deck.
+
+                       
+How to actually design a 
+captivating pitch deck 
+ 
+We asked our friends at 
+Deck Doctors
+ to create an 
+ebook
+ to show 
+what a good pitch deck looks like... and how to create one.The Deck 
+Doctors are the strongest narrative and slide designers we've ever 
+worked with.We work with them on our own decks, and we 
+recommend our founders at Hustle Fund work with them, too. 
+This book is relentlessly actionable.With real-life slide breakdowns 
+from Hustle Fund portfolio companies. Instead of  copying and 
+pasting a light version of  that book in this chapter, we recommend 
+you read it in its entirety 
+here
+.  
+It Õs free to download and it Õs the perfect complement to this book.  
+ 
+Ò YouÕre halfway done!Ó 
+
+                       
+CHAPTER FOUR
+ 
+Build relationships 
+with investors
+ 
+If  you donÕt come from the startup world, thereÕs a good chance that 
+you arenÕt casual friends with any investors. So how do you meet 
+angels andVCs?  
+Every business book will tell you to just go out and Ònetwork.ÓTo 
+meet important people, you should just Ògo out and network with 
+people.Ó  
+When I 
+Þ
+rst started my career, I thought I had to play golf  with 
+businessmen. Or attend every startup conference out there. Or 
+somehow get invited to a pre Burning Man party.  
+Now having spent my entire career building communities of  
+entrepreneurs, I 
+Þ
+nally understood what ÒnetworkingÓ really meant.  
+
+                       
+Make authentic relationships in 
+business
+ 
+Networking is not about going to a bunch of  conferences and 
+exchanging business cards. Networking is simply about 
+making 
+friends
+. 
+Wait, that Õs the big revelation? OK stay with me. People do business 
+with people they like and trust.And who do we like and trust? Our 
+friends! If  you re
+ß
+ect on all the people whoÕve helped you and 
+whom youÕve helped in business (or in life), what do they all have in 
+common? If  I had to guess, theyÕre probably your actual friends.  
+The opposite is also true.Think about a time when youÕve worked 
+with a client or a team member who you didnÕt like or trust.They 
+probably didnÕt pass your Òfriend test.Ó I bet doing business with 
+them must have been extremely challenging.  
+So when youÕre meeting new investors, potential candidates for your 
+team, or people to partner with, donÕt think of  them as ÒcontactsÓ to 
+pitch later on LinkedIn.Try to be actual friends with them.  
+What most ÒbusinessÓ people do: 
+!
+They hard sell right off  the bat. 
+!
+They obsess about their own self-interests. 
+!
+They donÕt keep in touch with the people theyÕve met. 
+
+                       
+!
+They spam their prospects with irrelevant marketing messages. 
+!
+They donÕt show any interest in the other personÕs hopes or 
+dreams. 
+It Õs not a surprise that no one is responding to cold emails from 
+these people. Instead ask yourself: what would a good friend do?
+ 
+A good friend would: 
+!
+Check in to see how theyÕre doing as a human. 
+!
+Spend quality time together, in and out of  the business world. 
+!
+Offer to make introductions to potential clients, hires, or 
+partners. 
+!
+Share relevant news, books, or articles the other person would 
+be interested in. 
+!
+Recommend the option that Õs best for them, even if  that means 
+going against your personal interests. 
+I especially love the last point. Good friends look out for what Õs best 
+forYOU. For example, a true friend might recommend you accept a 
+fundraising offer from a strategic partner over their own deal 
+because it Õll be the better decision for you.  
+
+                       
+Where to meet investors 
+ 
+Now that you understand why we should make friends over 
+ÒLinkedIn connections,Ó how do you actually meet investors?  
+Start with your current network
+  
+ 
+The best place to start is with your current network.Ask friends, 
+family, and colleagues if  they know any investors. Since investors 
+come from all backgrounds, they could look like friends in tech, your 
+local electrician, or the small business owner across the street.You 
+never know who an investor could be so you may be surprised by 
+the reach that you already have. Elizabeth has pitched her 
+optometrist three times to invest in Hustle Fund. He turned her 
+down. But maybe the fourth timeÕs the charm.  
+Use LinkedIn,Twitter, andAngelList
+  
+ 
+Previously founders had to 
+ß
+y to SiliconValley for a chance to meet 
+withVCs. But with the power of  the internet, we can connect with 
+almost everyone. On 
+AngelList
+, you can 
+Þ
+nd investors who have 
+previously invested in startups similar to yours. OnTwitter, you can 
+easily slide into investorsÕ DMs. On LinkedIn, you can ask 2nd-
+degree connections for an introduction. Many investors even leave 
+their email addresses in the ÒbiographyÓ section of  their social 
+pro
+Þ
+les.  
+
+                       
+Attend relevant events and conferences
+ 
+While meeting people online is great, nothing beats meeting 
+people in real life. Find the gatherings where investors in your 
+industry meet and make friends there. Sometimes these events 
+might be in your local area. Or you may have to do some thorough 
+research to see which gatherings are worth traveling to. Even though 
+we have a pretty decent-sized audience online, our team at Hustle 
+Fund loves hosting 
+live events
+ because we see the magic of  
+connecting amazing people together IRL. 
+Host your own 
+Þ
+esta
+ 
+The GPs of  Hustle Fund got stuck raising money for our 
+Þ
+rst fund. 
+They didnÕt know what to do but Elizabeth had an idea: throw a 
+rager. 
+IÕm kidding. It wasnÕt a rager. It was just a fun gathering for their 
+existing investors.They asked them: ÒHey, weÕre pulling together a 
+group of  our favorite investors at a cool taco shop in San Francisco. 
+NextThursday at 7pm.You interested? ÓTacos and meeting other 
+investors? Heck yes!  
+After the guests con
+Þ
+rmed, the GPs did one more thing.They asked 
+each person to bring someone who might enjoy the party plus have 
+some interest in investing in Hustle Fund.This strategy to pitch to a 
+group of  curated people worked well.And the tacos were delicious.  
+
+                       
+The Òhost your own 
+Þ
+estaÓ strategy works well once you have a small 
+base of  people to invite.We recommend doing this once youÕve 
+already built personal relationships with the invitees.  
+Find warm intros or craft your 
+cold email 
+ 
+You might not have heard of  Kathryn Minshew but you probably 
+know a job-search and career advice site that she started calledThe 
+Muse. Kathryn and her team have raised over $30M. But before 
+raising all that capital, Kathryn was rejected 
+143 times
+.And when I 
+think about how many cold emails she sent just to get 143 meetings, 
+my head starts to hurt. 
+So this got me thinkingÉWhat can fundraising founders do to 
+increase their chances of  getting a meeting? Here are 5 things the 
+Hustle Fund GPs suggest to increase your odds of  landing a meeting 
+with aVC: 
+1. Keep your message short
+ 
+Most investors are constantly on the go, checking email on their 
+phone between meetings.This means they likely wonÕt have time to 
+read a 5-paragraph essay that outlines your companyÕs mission, 
+business model, value prop, fundraising goals, and traction. 
+
+                       
+Our recommendations: 
+!
+Include one line about your business 
+!
+Use a few bullet points to indicate the value proposition, 
+current pilots, and/or traction 
+!
+End with a clear call to action, like ÒDo you have time for a 15-
+minute call onWednesday to talk about fundraising?Ó 
+Example of  a cold email from a founder to an investor:
+ 
+
+Hey [NAME], 
+InAmerica, you can't buy food for your pet hippo in a store. 
+FastHippo is an on-demand food delivery for your pet hippo. 
+!
+In just the 
+Þ
+rst month, we have done $4k per month in sales 
+!
+Notable customers include Hilary Duff, Naomi Osaka, and 
+David Chang  
+!
+We have been featured on the NYTimes andWSJ 
+I'm raising a seed round - what is the best way to talk about this? 
+Thanks, 
+Elizabeth 
+
+                       
+
+1.
+Highly fragmented Ð over 80% of  hippo education is 
+distributed through mom-and-pop stores and only 20% is 
+branded, elite hippo education 
+2.
+Structurally inef
+Þ
+cient Ð archaic supply chains require 
+signi
+Þ
+cant working capital for inventory and long lead times 
+to launch new classes / educational content for hippos 
+3.
+Un-segmented Ð Product offerings are split mainly into 
+expensive, elite hippo education or cheap made-up content 
+for hippos with nothing in between 
+HippoCo has addressed these issues and created a direct-to-
+consumer educational brand that offers affordable, useful 
+educational content for the millennial hippo.We co-design and 
+market new educational products in collaboration with top 
+teachers at traditional hippo schools. 
+The results are validating our model and popularity with hippos: 
+!
+Annualized revenue: $900K USD, growing +70% QoQ 
+!
+Margins: 50% Ð 60% 
+!
+Strong unit economics: CAC: $25, 25% repeat purchase rate 
+in the past 6 months 
+Founders are third generation hippo teachers and technologists 
+from the BayArea. 
+Best, 
+Elizabeth
+
+                       
+2. Get a warm intro
+ 
+Investors are 93% more likely to take a meeting with someone who 
+has been recommended to them. If  you donÕt have a second-degree 
+connection to an investor, one tactic is to reach out to one of  the 
+investor Õs portfolio company CEOs. 
+Start by introducing yourself  and asking for their advice on 
+something startup-related.Then once youÕve developed a 
+relationship with her, ask the CEO for an intro to their investors. 
+When an investor gets an introduction to an emerging startup from 
+one of  their star CEOs, theyÕre more likely to take you seriously. If  
+they say yes, write an 
+email that makes it super easy to forward
+ to 
+that investor. 
+ 
+Example of  an email that the CEO can forward to their investor:
+  
+
+HiJake, 
+Thank you in advance for sending this to Martha at BigCrazyVC. 
+WeÕre raising our seed round and IÕd like to get her thoughts on 
+HippoCo. HereÕs a quick background: 
+The $180B hippo education market is antiquated and ripe for 
+disruption: 
+
+                       
+3. Do your research
+ 
+VCs often tailor their investments around a certain type of  business. 
+Their focus could be an industry (VR vs. marketplaces), founder 
+pro
+Þ
+le (female founders vs. founders in a speci
+Þ
+c region), or size 
+(pre-seed vs. SeriesA). ManyVCs wonÕt take the time to respond to 
+emails from startups that arenÕt in their sweet spot, let alone take a 
+meeting with them. 
+As one investor told us, 
+ÒIÕm far more likely to book a meeting from a 
+cold email that seems like it could be a good 
+Þ
+t for my 
+Þ
+rmÕs mandate 
+than I am to book a meeting from a warm intro to a company that 
+isnÕt a 
+Þ
+t.Ó 
+4.Ask for intros, strategically
+ 
+Most founders ask the same generic question at the end of  their 
+meetings. 
+ÒHereÕs our blurb, can you share it with anyone who may 
+be interested?Ó 
+The founders or investors say, 
+ÒSure, of  courseÓ
+ to be 
+nice. But we all know they never actually share your info with 
+anyone. 
+Now this isnÕt a bad question to ask, per se.The intent is actually 
+great. But this question feels too general. HereÕs our advice: Change 
+the way you ask. 
+ÒCan you think of  one person who might be 
+interested in hearing about my company?"
+ 
+
+                       
+This new question is wildly more effective. Most people can think of  
+one name with ease.The hurdle is far lower and the ask is 
+achievable. Oftentimes, that person is the richest person they know. 
+5. Reduce your red 
+ß
+ags
+ 
+AsVCs, it Õs our job to ask the hard questions.To determine (quickly 
+and fairly) whether a company is promising enough to warrant 45-60 
+minutes of  our time.We review enough applications to quickly spot 
+red 
+ß
+ags in an applicationÐthings that prevent us from moving 
+forward with a company. 
+Here are a few common 
+ß
+ags that often prevent us from taking a 
+meeting: 
+!
+If  the founder isnÕt working on the business full-time 
+!
+If  the revenue model is based entirely on ads 
+!
+If  the team seems distracted with many different opportunities, 
+rather than focused on the core business 
+!
+If  weÕve already invested in a similar company 
+!
+If  the company requires a huge amount of  capital to be raised 
+before you can take the MVP to market 
+!
+If  the valuation is super high 
+Keep in mind that these "
+ß
+ags" are speci
+Þ
+c to Hustle Fund. Be sure 
+to do your research (see tip #3) to 
+Þ
+nd out what otherVCs consider 
+to be deal breakers.
+ 
+
+                       
+Create your elevator pitch
+ 
+OK it Õs unlikely youÕll actually pitch your company in an elevator. But 
+you will likely bump into an investor at a cafe where theyÕll eventually 
+ask, 
+ÒSo, what do you do?Ó
+ 
+Can you con
+Þ
+dently and effectively communicate what your startup 
+does in 30 seconds? HereÕs the structure we recommend.  
+Basic elements of  an elevator pitch
+ 
+1.
+Keep it short.Aim for 30-60 seconds. 
+2.
+Be straight to the point. Highlight 2-3 impressive things about 
+your company, nothing more. 
+3.
+End with a speci
+Þ
+c call to action.Ask Ò Would you like to learn 
+more?Ó to investors if  youÕre looking to fundraise. Or ask ÒDo 
+you have any feedback?Ó to founders if  youÕre looking to 
+improve your pitch. 
+Now let Õs see this in action. Imagine we created a company called 
+TheWell CraftedAdventure.  
+ÒLet's say you're traveling in the next 12 months and you have a few 
+places picked out for business, family, and friends.You can tell the 
+app more about the type of  adventuring you like to do, your 
+Þ
+tness 
+level, where you plan to travel, etc.And this app will spit out 
+recommended adventures in each location. It will connect you with a 
+local expert and it'll provide a list of  places where you can rent gear 
+
+                       
+or anything else that would make your adventure easy while you're 
+on the road.Ó 
+HereÕs how we would turn this generic company description into a 
+compelling elevator pitch.  
+ÒI founded a company calledTheWell CraftedAdventure. Our app 
+allows us to understand how people prefer to travel.Then we use our 
+AI to spit out recommendations of  things you can do, where to 
+Þ
+nd 
+the proper gear, and more info on how to maximize your time to 
+enjoy the trip. 
+WeÕve attracted 750k users in the second year alone, growing at a 
+35% month over month rate.WeÕve been namedApp of  theYear 
+from both National Geographic and Outside Magazine. Founders 
+have previously been the GM of  Expedia andTech Lead at 
+JetBlue.com.We're currently closing up our round. If  you'd like to 
+learn more, let's continue the conversation.Ó 
+The pitch is concise, it highlights a few impressive items (usingAI, 
+growth rate, and notable partnerships), and ends with a call to 
+action. 
+
+                       
+DonÕt try to close money off  an elevator pitch
+ 
+The goal of  an elevator pitch is to leave the investor curious to learn 
+more about your startup. It Õs inappropriate to ask, 
+ÒAre you ready to 
+put $100k into this idea?Ó
+ right after a pitch. 
+ThereÕs not enough context or trust in the relationship yet. 
+Remember: an elevator pitch is only the tip of  the iceberg. Schedule 
+a proper meeting with the investor and be prepared for the next 
+steps. 
+ 
+
+                       
+CHAPTER FIVE 
+Pitch to investors
+ 
+Pitching to investors can feel intimidating, but it doesnÕt have to be 
+such a scary thing. Hustle Fund GPs Eric, Elizabeth, and Shiyan have 
+seen over 50,000 pitches from startup founders throughout their 
+careers. So they know what makes a pitch great.  
+WeÕll walk you through how the whole process works and share 
+some advice you might not expect.  
+How to run your 
+Þ
+rst meeting 
+with aVC 
+ 
+Meet on Zoom
+ 
+It might seem weird to pitch over Zoom. But this is how Hustle Fund 
+conducts all our pitch meetings.We love this medium because it 
+allows both parties to see one another in their natural elements.  
+
+                       
+When founders meet with Eric on Zoom, they see him in his garage 
+with his kidsÕ bikes, BBQ, and trash cans in the background. Eric 
+shows his real background because it shows what his life actually 
+looks like.Vulnerability is often reciprocated and that Õs where you 
+can both start to form a more personal connection. 
+ 
+DonÕt use a pitch deck
+ 
+Yes, you read that correctly. It Õs totally ok to not use a slide deck 
+during your 
+Þ
+rst meeting. I know you spent weeks crafting your pitch 
+deck, but hear us out.  
+When you use a slide deck, you automatically enter Òpresenter 
+modeÓ, which gives the meeting a clear power dynamic. Both parties 
+become uncomfortably aware that one of  you is the decision maker 
+(hint: it Õs not you). 
+When you have a relaxed conversation with someone, the power 
+dynamic feels more balanced.And when the dynamic is balanced, 
+you can connect more deeply as humans. By the way, you can still 
+pitch yourself  and your company without using a pitch deck.  
+Zoom tip: 
+Set your camera to be at eye level to 
+make the meeting feel more conversational.
+
+                       
+After the initial small talk, ask the investor to tell you a bit about 
+themselves: 
+!
+How they got into venture 
+!
+What their role at their 
+Þ
+rm is 
+!
+A deal the fund recently completed 
+After they share their story, you can tailor your pitch to theVCÕs 
+context. 
+Great storytelling is great listening
+ 
+Having a normal conversation rather than a formal presentation 
+gives you an opportunity to listen to what excites the investor. If  they 
+mentioned 
+!
+How they believe in startups who think slowly and long term, 
+you can tailor your pitch to show how you're thinking long-term 
+for your startup  
+!
+How they started their women-focusedVC fund to even the 
+playing 
+Þ
+eld, you can emphasize the women and diversity on 
+your team  
+!
+How they invested in a similar company, you can weave how 
+that company has inspired your journey (if  this is true) and how 
+you have a similar vision as them 
+These are good ways to connect with the investor and 
+Þ
+nd some 
+common ground.As you share more about your similarities, notice 
+
+                       
+their reactions on Zoom. If  the other person is looking away or 
+fading off, change the subject to what they care about. If  they're 
+nodding and smiling, those are cues to lean more into your story. 
+Questions that early-stageVCs 
+may ask you
+ 
+Elizabeth has a list of  questions that she regularly asks early-stage 
+founders to decide whether or not to invest.The 
+questions in bold 
+are what she personally cares most about.The other questions are 
+common examples of  what many early-stage software investors may 
+ask.
+ 
+Team 
+ 
+!
+Tell me a bit about your background and your co-founder(s)Õs 
+background. 
+!
+How do you all know each other? 
+!
+How long have you worked together and in what 
+capacity? 
+!
+Why is your team uniquely motivated to solve this problem?  
+!
+Why did you pick your co-founder?  
+!
+Who do you need to hire during the next 18 months to be 
+successful? 
+!
+When was the last time you disagreed on a business issue? 
+How did you resolve it? 
+
+                       
+!
+Do the founders have the knowledge to build the technology 
+or would they need outside help? 
+!
+What does the cap table look like? (equity distribution across 
+founders)  
+ProblemYouÕre Solving
+ 
+!
+What is the speci
+Þ
+c problem you are solving?  
+!
+How big / serious of  a problem is it? 
+!
+Why is this a problem?  
+!
+Who has this problem? 
+Solution / Product
+ 
+!
+How are people solving this problem today?  
+!
+Describe your solution to this problem. 
+!
+What effort/timing is required to switch from a different 
+solution to yours? 
+!
+(For deep tech)What is unique about the tech? (Do you have 
+any patents / IP / trademarks?) 
+!
+What is your product roadmap for the next 6-12 months? 
+Market / Market timing
+ 
+!
+Why now?  
+!
+Why hasnÕt this worked/been done before?  
+
+                       
+!
+How big is this speci
+Þ
+c market?  
+!
+How many people does it affect? 
+!
+How much money are people spending to solve this? 
+!
+What is your unfair advantage? 
+!
+Who would you see as your key competitor at the moment? 
+Why? 
+CustomerAcquisition / Unit Economics / Go-
+To-Market
+ 
+!
+Who is your customer persona?  
+!
+Who is the end user? 
+!
+Who is the buyer? 
+!
+What does a day-in-a-life look like for these people? 
+!
+How much are people paying today? (range?)  
+!
+How much do you think you can charge in the future?  
+!
+How are you currently getting users/customers? (what 
+customer acquisition channel(s)?) 
+!
+How do you think you will get users/customers in the future?  
+!
+How much does it cost you currently to get a user?And in 
+which channel?  
+!
+How have different customer acquisition channels performed? 
+For example, what is the difference in conversion rate between 
+Facebook ads versus LinkedIn ads? 
+!
+Tip: understanding how to slice and dice your numbers 
+over time and through different channels helps you 
+understand two things:Are your numbers getting better 
+
+                       
+over time?And which channels are working or not 
+working? 
+!
+How much does your solution/product cost (COGs)?  
+!
+How much will it cost in the future?  
+!
+Why do people buy/use your solution?  
+!
+What is the sales cycle to-date? 
+!
+How does the product team interact with current and 
+potential customers? If  so, how and how often?  
+Competition
+ 
+!
+What differentiates your solution from other alternatives? 
+!
+Who are you more afraid of: Google or another startup? 
+!
+Who are you most afraid of ?  
+!
+What happens if  Google (or equivalent) does this? 
+!
+Who are the major players?  
+!
+What is your moat? 
+Traction
+ 
+!
+When did you start the company? 
+!
+How many customers do you have to-date?  
+!
+Or how many pilots / contracts are signed? 
+#
+When are the start dates of  those pilots / contracts?  
+#
+What are the contingencies?  
+!
+Or how many LOIs signed?What do those look like?  
+!
+How much revenue have you generated to date?  
+
+                       
+!
+How much revenue did you earn this month? Last month? 
+The month before? 
+!
+As product revenue vs consulting / services revenue?  
+!
+What are your margins?  
+#
+Tip: margins are especially relevant for companies 
+with a high cost of  goods, like expensive items, or e-
+commerce companies with delivery expenses. 
+!
+Any notable customers?  
+!
+Any enterprise customers paying big money?  
+!
+What does retention or churn look like? (if  you know) 
+!
+How many daily active users do you have? How many 
+monthly? 
+!
+What is your monthly churn? 
+#
+Tip: churn is especially important for subscription-
+based companies 
+!
+What does engagement look like?  
+!
+What is your website conversion rate? 
+!
+How have your conversion rates changed over time? Have 
+they increased, decreased, or stayed the same? 
+!
+Any upsells?  
+!
+When will your company break even in terms of  pro
+Þ
+tability 
+and cash 
+ß
+ow? 
+Fundraising/plans
+ 
+!
+How much have you raised to date?  
+!
+What were the terms in your last round? 
+
+                       
+!
+Who are your current investors? 
+!
+How much are you looking to raise?  
+!
+What are you looking to achieve (milestones) with this 
+round if  everything goes well? 
+!
+What milestones do you expect to hit with this raise? 
+!
+Where are you in your round?  
+!
+Have the current terms been set?And if  so, what are 
+they?  
+!
+What is your burn rate?  
+!
+What is your top priority for the next 3-6 months?  
+!
+What metrics do you care about when measuring the health of  
+your business?Why? 
+!
+What are your capital costs? (if  capital intensive, like hardware / 
+e-commerce) 
+!
+Minimum batch sizes / inventory / etc?  
+!
+Have you secured a lead investor for the round? If  so, who and 
+how much is the lead investing? 
+We recognize that these are tough questions.And sometimes tough 
+questions put people on the defensive.A red 
+ß
+ag for most investors 
+is when founders get SUPER defensive, or even dismissive of  the 
+questions or ideas that investors bring to the table.This is because a 
+defensive founder indicates that they are probably not coachable. 
+Now you should feel free to push back against an investor if  you 
+have a different opinion. Especially if  you have data to back up that 
+
+                       
+opinion. But there's a difference between being a jerk and holding 
+your ground. 
+Our team at Hustle Fund looks for founders with growth mindsets. 
+People who are open to receiving new information and hearing new 
+perspectives, then changing their worldview based on that new 
+information. It's a big red 
+ß
+ag when it appears the founder lacks that 
+mindset.  
+ 
+One more thing: your numbers or answers might not be impressive, 
+especially if  youÕre an early-stage company.That Õs OK.The important 
+thing is to know your metrics. 
+True story: once someone from our team was on a Zoom meeting 
+with a founder looking for investment. During the call, one thing 
+became painfully clear: this founder didnÕt have a basic 
+understanding of  his metrics. 
+He didn't know how much traf
+Þ
+c he got each month, or at what rate 
+his customers converted. He didn't know how many of  his purchases 
+If  you 
+Þ
+nd that investors are grilling you on your 
+business, that Õs actually a good sign.This means 
+the investor is interested in the business and 
+wants to dig in more. 
+
+                       
+were from returning customers, or what it cost to convert a visitor 
+into a paying customer. 
+Spoiler alert: we didn't invest in this founder. 
+But the reason we didn't invest had nothing to do with what his 
+actual numbers were. It came down to the fact that this founder 
+didn't understand what was happening in his business. If  the 
+founder had a 
+Þ
+rm grip on his metrics Ð even if  the numbers were 
+low Ð it would have shown us two important things: 
+1.
+He has thought critically about his funnel 
+2.
+He knows what's happening in the business and can iterate 
+quickly. 
+I'll say it again: 
+the actual numbers meant far less to us than the 
+founder's understanding of  those numbers
+. Because without that 
+knowledge, how can the founder know where to focus his time and 
+resources? How will he know what's driving the business, and what 
+changes should be made to improve it? 
+Prepare as much as you can to answer these questions. Respond 
+gracefully and honestly.YouÕll be on the right path. 
+ 
+
+                       
+Questions that founders should 
+askVCs
+ 
+Fundraising meetings are a two-way street. Entrepreneurs need to 
+do a good job answering an investor Õs questions, but they should 
+also ask questions toVCs. Skipping this is a serious mistake.  
+Entrepreneurs should learn everything they can about an investor 
+before entering into an agreement.You donÕt want to take money 
+from bad apples. If  things get tough down the road, investors can: 
+!
+Call their convertible note 
+!
+Potentially replace you (depending on the equity and board 
+situation) 
+!
+Threaten litigation (even if  they have no case) 
+!
+And most importantly, be a big pain in the ass and call you all 
+the time 
+You are looking for a relationship Ð not just money. 
+Before taking an investor meeting (or even reaching out), do your 
+homework and research investors. Make sure to reach out to 
+investors who are actually a good 
+Þ
+t for your business (stage, sector, 
+amount, what they look for, etc). Most websites will spell this all out Ð 
+especially newer micro funds who are trying to differentiate 
+themselves in the market by  going after a speci
+Þ
+c niche. 
+
+                       
+In addition, hereÕs a list of  questions you should ask investors when 
+you meet them: 
+!
+How big is your fund? (forVCs) 
+!
+Where are you in your fund? (forVCs) 
+!
+When will you need to fundraise again? (forVCs) 
+!
+Do you lead rounds? (forVCs) 
+!
+What is your typical check size? 
+!
+Do you reserve capital for follow-on? 
+This gives you a sense of  how much money you can raise from a 
+given 
+Þ
+rm or individual.This is key because there are a lot of  
+investors out there who have no money but are still taking meetings.  
+It Õs OK to take a meeting with an investor who has no money to 
+invest, but you should know that they wonÕt be able to come into 
+your round until they have raised money so your meeting might not 
+lead to anything. 
+Understanding how much is allocated for follow-on investments also 
+gives you a sense of  how much money is left in a fund. If  a fund is 
+$10M and two-thirds is reserved for follow-on, then in practice, 
+thereÕs $3M for 
+Þ
+rst checks. If  the 
+Þ
+rm has already deployed $2M, 
+you know that your chances of  getting a 
+Þ
+rst check are slim. 
+In general, it Õs slightly easier to raise from funds that have just raised 
+a fund.They have a lot of  money that needs to be deployed, and so 
+they are more eager to invest. In contrast, when there are fewer 
+
+                       
+dollars left to deploy, those last dollars will be extremely 
+competitive. 
+You should 
+Þ
+nd out an investor Õs cadence: 
+!
+How many seed deals have you done in the last 6 months? 
+!
+How many seed deals do you anticipate doing in the next 6 
+months? 
+!
+How long does your process typically take? 
+And how decisions are made: 
+!
+What is involved in your process? 
+!
+Who is the decision maker? (forVCs, although sometimes 
+angels need to consult their families or friends) 
+By the end of  the meeting, you should understand: 
+!
+Everything about an investor Õs decision-making process 
+!
+Whether you have a champion to take this to the decision 
+makers (whether it be partners at a 
+Þ
+rm or their family) 
+!
+What the concerns are with your business in their eyes 
+!
+What the CONCRETE next steps are 
+If  you do not have answers toALL of  these questions, do not be 
+afraid to keep asking questions.
+ 
+
+                       
+Follow up immediately after the 
+call 
+After Eric pitches a prospective investor, he sends a follow-up note 
+as quickly as possible. Sometimes within minutes of  hanging up.You 
+donÕt have to be 
+that 
+fast.  
+But it Õs good to set expectations before you hang up, saying 
+something like ÒIÕll follow up in the afternoonÓ or ÒIÕll get back to you 
+within 24 hours.ÓAnd then 
+actually
+ follow up within the timeline 
+youÕve set.  
+This signals that youÕre a person who does what they say.This may 
+seem like a small thing but investors notice these details.  
+Craft the perfect follow-up email
+ 
+Let Õs talk about the anatomy of  a great follow-up email, then weÕll 
+show you an example template that you can use in your follow-up 
+emails. 
+First, we recommend reiterating details that made the other person 
+excited during the call. HereÕs an example.  
+
+                       
+Imagine you just pitched your 
+Þ
+ntech company to an investor, who 
+mentioned that sheÕs interested in LatinAmerican 
+Þ
+ntech 
+infrastructure.You can reference that note and frame your company 
+(or yourself ) as a thought leader in this space in your follow-up 
+email. 
+Next, include anything you promised to share after the meeting.This 
+could include your pitch deck, a link to an article you mentioned, 
+info about your market, data from your pilot program, etc. Make sure 
+the other person has everything they need to properly evaluate your 
+startup.  
+Lastly, set expectations on what Õs next.This could be something like 
+ÒIÕll follow up in a week after youÕve had a chance to process the info 
+and organize your thoughts.Ó 
+Most email clients allow you to 
+ÒsnoozeÓ the email, so the message will automatically pop back into 
+your inbox a week later (if  you havenÕt received a response by then). 
+
+                       
+Example of  a good follow-up email:
+ 
+ 
+ 
+Hey {NAME}, 
+Thanks so much for spending some time with me this morning! 
+Really glad we can share intros and get to know one another. I 
+love how excited you were about {Reference back to something 
+that made the investor excited during the call} 
+Some additional context about {Your company}: 
+!
+{Mention notable progress} 
+!
+{Include link to pitch deck and other materials} 
+!
+{Link to notable press coverage} 
+Thanks for your time and hope we get a chance to collaborate! 
+Best, 
+Eric  
+
+                       
+Create your investor CRM 
+ 
+HereÕs our controversial take:A great fundraising process is only 
+20% about pitching.The other 80% is all about organization. 
+While fundraising for his startups and for his fund, Eric spoke to 
+thousands of  investors. It was impossible to remember all of  them, 
+let alone details of  when they last spoke, what they talked about, etc.  
+The secret to EricÕs success in fundraising is having a strong CRM 
+system to organize everything. For those who have lives outside of  
+making spreadsheets, 
+CRM stands for customer relationship 
+management.
+ Companies like Salesforce, HubSpot, and Pipedrive 
+have built exquisite CRM systems. But a CRM can be as simple as a 
+Google Sheet.  
+A CRM is a tool that keeps all your contacts in one place with 
+detailed notes about each relationship. Using a CRM allows Eric (and 
+his team) to tailor communications, build stronger relationships, and 
+ultimately close more deals. 
+Let Õs walk through a 
+template weÕve made
+ (yes, you can duplicate it) 
+to show what makes an effective CRM and how to get started today. 
+
+                       
+ 
+This spreadsheet may look like a lot at 
+Þ
+rst. But a CRM is simpler 
+than you might think.Also, since the text on this image is hard to 
+see, let Õs break down each section. 
+ 
+
+                       
+Basic contact info
+ 
+To kick things off, add the names and email addresses of  the 
+investors that you already know.Then add the names and email 
+addresses of  prospective investors youÕd like to build stronger 
+relationships with.  
+ 
+Type of  Investor
+ 
+In the next column, label what type of  investor they are (angel 
+investor, venture fund, etc).This will help you tailor your messaging 
+accordingly.
+ 
+
+                       
+ 
+Referrer
+ 
+The referrer is the person who introduced you to the investor listed 
+in your CRM. So if James Hippoton sent an email to introduce me to 
+investor EricTorres,James is the referrer. 
+This is crucial because your team can see where your leads are 
+coming from. Plus, if  the introduction is bene
+Þ
+cial, it Õs respectful to 
+reach out to the referrer later on to say thanks.  
+Add their names in the next column and let Õs keep moving. 
+
+                       
+ 
+Stage
+ 
+What stage are they at in terms of  considering an investment in your 
+company?These stages can be customized to your situation. For 
+simplicity, weÕll show you the stages that we use during our 
+fundraising process. 
+!
+Lead
+ ÐWhen someone offers to refer somebody new to you 
+but you havenÕt made contact yet. 
+!
+First Contact
+ ÐThis is the 
+Þ
+rst time youÕve of
+Þ
+cially engaged. 
+Someone might have sent an email introduction and the lead 
+may have reciprocated back saying, Ò Yes, let Õs meet!Ó 
+
+                       
+!
+First Pitch
+ ÐThis is the 
+Þ
+rst meeting you have with them to pitch 
+your company. Usually done over Zoom without a pitch deck. 
+!
+Due Diligence
+ ÐThis comes after the pitch when theyÕre 
+considering investing. It Õs normal for investors to ask to see 
+more materials to help them make a decision. 
+!
+Soft Commit
+ ÐThis is when they are interested in investing and 
+have given you a dollar amount they want to put towards your 
+company.This is purely a verbal commitment, nothing of
+Þ
+cial, 
+but a positive sign to move them into the next stage. 
+!
+Signed
+ ÐThis is when the confetti drops from the ceiling 
+because you have received a full commitment from this 
+investor.Whooot!  
+!
+Rejected and Ghosted 
+Ð If  someone rejects your pitch, mark 
+them as ÒrejectedÓ and invite them to be part of  your investor 
+newsletter (more on that in the next chapter) to convert them 
+later down the road. If  someone isnÕt returning your messages, 
+you should ping them at least 10 times before marking them as 
+Òghosted.Ó  
+
+                       
+ 
+Committed 
+ 
+If  the investor has given you a verbal commitment with the amount 
+they want to invest, include this number in the ÒCommittedÓ column. 
+Above, you can see three investors committing a combined total of  
+$300,000 as an example. 
+ 
+
+                       
+Notes
+ 
+The ÒNotesÓ section summarizes what you talked about during your 
+calls or emails.Add as many notes as you can along with the dates 
+of  each interaction.These notes are crucial because fundraising is a 
+team sport.  
+Tracking everything helps your team understand all the context of  
+the relationship. So when they interact with this person, they know 
+where each investor is in the process, and can pick up right where 
+their teammate left off.  
+ 
+
+                       
+Closed and Next Contact
+ 
+The ÒClosedÓ column shows how much money youÕve actually 
+closed.This is the time to celebrate! Put on some upbeat music. 
+Have a dance party.You deserve it.  
+Ok, time to get back to work.The last part of  the CRM is a ÒNext 
+Contact Ó column.This is a reminder for yourself  when you should 
+reach out to this person again. So if  you're still in the due diligence 
+or soft commit phases, set a clear date here on when you should 
+follow up.  
+If  people have committed, we recommend being aggressive and 
+following up every two or three days.This shows that youÕre 
+committed to making this work and are certain you have given them 
+all the materials they need to make a decision.  
+For the people who have rejected or ghosted you, you should keep 
+reaching out. One time Eric reached out to an investor 12 times with 
+no response.Then, on the 13th attempt, that investor replied. He 
+ended up committing half  a million dollars into Hustle Fund.  
+So a rejection is never truly a rejection until you get a hard Òno.Ó  
+
+                       
+What Õs the key takeaway?
+ 
+Your investor CRM is a critical tool for successful fundraising.  
+!
+All your contacts are in one place with detailed information  
+!
+All interactions your team has had with each person are tracked 
+so everyone is on the same page 
+!
+It tracks where everyone is in the fundraising process and gives 
+reminders on when to follow up.  
+Start your investor CRM as soon as possible. Like, now.There are 
+paid CRM tools out there to track opens and clicks on emails. But to 
+keep things simple, start with a basic spreadsheet.We created a 
+free 
+template
+ that you can use as inspiration.  
+Create an investor newsletter
+ 
+Whether they committed capital or turned down the opportunity to 
+invest, invite all the investors you connect with to join your investor 
+newsletter.  
+This is a monthly update on what Õs happening in your startup.This 
+newsletter has two bene
+Þ
+ts: 
+1.
+It keeps your existing investors engaged
+ Ð and helps you make 
+important asks when you need support. 
+
+                       
+2.
+It Õs a crazy effective fundraising tool 
+Ð the people who said 
+ÒnoÓ to you are looped into your progress and may convert into 
+investors down the line. 
+HereÕs what Õs inside an effective investor newsletter (you can 
+duplicate our template 
+here
+). 
+ 
+The introduction
+ 
+Eric likes to add a bit of  humanity at the top of  his newsletters.This 
+usually means sharing an update on what's going on with the team 
+or his own life. It's a nice way to show everyone you're a team of  
+good human beings. 
+ 
+
+                       
+ 
+Executive summary
+ 
+Next, Eric recommends including an executive summary.This should 
+consist of  the most important items, like:  
+!
+Major news (positive and negative) 
+!
+Top line review numbers  
+!
+Growth metrics  
+!
+Key hires  
+Not every investor will read the entire newsletter.This executive 
+summary gives them theTL;DR (too long; didnÕt read) of  what Õs most 
+important.  
+
+                       
+ 
+Company description and key asks
+ 
+Yes, founders should ÒrepitchÓ their company again. Believe it or not, 
+investors sometimes forget what they invested in since theyÕve 
+invested in so many companies. Or prospective investors on your list 
+need a quick refresher on what you do.  
+A short summary to remind folks of  your mission and what you do is 
+bene
+Þ
+cial for everyone.  
+Next, include your key asks.These are areas where you could use 
+help like hiring, coaching, or fundraising advice. Investors want to 
+help you but donÕt always know how.This section makes it easy for 
+them to reply, 
+ÒI know somebody at Stripe! Let me connect you to 
+them now,Ó
+ or 
+ÒI have a recommendation for an executive coach. 
+HereÕs their website.Ó
+ 
+
+                       
+ 
+Goals and highlights
+ 
+Investors like to see founders set clear milestones and re
+ß
+ect on past 
+goals.The highlights section helps investors better understand what 
+the founders are going through.  
+Like in the section about revenue (in the photo), it Õs totally ok to say,  
+Ò We set this goal.We didnÕt really make it. But this is what our 
+projections look like now and the lessons that weÕve learned.Ó  
+ 
+
+                       
+Final stats
+ 
+It can be helpful to reiterate some important metrics again toward 
+the end of  the newsletter. Founders don't need to include a 
+Þ
+nal 
+stats section every time. But if  thereÕs a massive milestone you want 
+to emphasize, include that here. 
+ 
+Thank yous
+ 
+It Õs possible to train people to read a speci
+Þ
+c section of  your 
+newsletter by giving them a chance to see their own name listed. In 
+our Hustle Fund investor newsletter, we give a dozen shout-outs to 
+
+                       
+people who have helped us in the previous month. People often 
+read to the end to see if  theyÕre listed.  
+This is also a subtle name-dropping element. Including the people 
+who have helped you gives everyone a sense of  the community 
+youÕre surrounding yourself  with.This can also potentially FOMO 
+people into helping you, as well.  
+Bonus tip:Add your Calendly link
+ 
+Consider adding a link where prospective investors can schedule a 
+call with you. Remember, this investor newsletter is essentially a drip 
+campaign for your fundraising.These monthly newsletters show 
+prospective investors all the work youÕre doing along with a 
+progress report of  how it Õs going. So when it Õs time to raise money 
+again, you have the opportunity to include a 
+Calendly link
+ and say 
+something like, 
+Ò Things are going great.We're thinking about doing a little round 
+with our insiders 
+Þ
+rst before we raise something bigger. Here's my 
+Calendly link if  you want to schedule time.Ó 
+If  you've done your work well, you're going to see a lot of  people 
+schedule a meeting with you.  
+
+                       
+Be consistent
+ 
+Consistency is paramount.Whether it's once a month or once a 
+quarter Ð we recommend once a month Ð you want the folks on your 
+investor newsletter to get used to hearing from you at a regular 
+cadence. It Õs a great way to build trust with your investors.TheyÕll see 
+you as reliable and trustworthy, and will be more likely to 
+recommend you to other investors and strategic partners in the 
+future.  
+Newsletters can also be a way to slowly pitch your company over 
+time.And it works.At Hustle Fund, investors who have passed on us 
+have invested in later rounds because of  our newsletters. If  someone 
+rejects you on an investment, invite them into the newsletter anyway. 
+You might 
+Þ
+nd that over time, youÕll be able to land them as an 
+investor.
+ 
+Keep it simple
+ 
+It Õs OK to send the same updates to all your investors. No one needs 
+an individualized note to go with their update.Just be sure to BCC 
+everyone so youÕre not sharing their information without their 
+approval. 
+Lastly, include relevant links. Did you just launch a new product? Post 
+a new job listing? Release a new version of  your website? Linking to 
+those pages will make it easy for your investors to get excited about 
+what youÕre building, and think of  ways they can help you be more 
+successful.
+ 
+
+                       
+How to ask for feedback if  the 
+investor says no
+ 
+One thing that frustrates our team about venture capital is 
+vague 
+passes
+. Most investors arenÕt incentivized to give a clear reason to 
+say ÒnoÓ.TheyÕd rather preserve the optionality of  coming back to 
+you later if  it seems that your business is actually doing well. 
+Frankly, this feels disrespectful. But it Õs bound to happen. Here are 
+two ways to try and get some real perspective on what may be 
+happening. 
+1. ÐAsk the investor directly
+ 
+ÒIs there one thing that caused you concern about our company?Ó  
+If  you ask for generic feedback, there may be too much Òanalysis 
+paralysis,Ó and it Õs going to be hard to get an answer. But when you 
+ask for just one reason or one thing that you could improve, this 
+makes it easier for the person to respond.  
+Keep in mind if  you use that Òone thingÓ to try and convince them 
+that they were wrong, youÕll likely just jeopardize the relationship. If  
+you do get feedback using this method, we recommend thanking 
+them for their honesty, letting them know youÕre addressing that 
+piece, and asking if  you can add them to your investor update 
+newsletter.
+ 
+
+                       
+2. Ð ÒPitchÓ to other founders
+ 
+If  you've been talking with investors and the conversations havenÕt 
+gone anywhere, pitch your startup to other founders. Make sure 
+these are founders you can absolutely trust. Give them permission to 
+drop honest and brutal feedback.  
+Ask targeted and action-oriented questions like, 
+Ò What is one thing 
+you think that I should change about my pitch?Ó
+You can even gather 
+a few founders into a small mastermind group to do this activity 
+together. Each person pitches and the other people in the group 
+give feedback for 10-15 minutes.This allows you all to gather input 
+from multiple perspectives and learn from each other. 
+What to do if  you arenÕt hearing 
+back from investors
+ 
+If  someone ghosts you after a Bumble date, they probably arenÕt that 
+interested in you. But investors are a different story.  
+1. Be persistent in following up
+ 
+Elizabeth used to think that investors would get annoyed if  she 
+bugged them too much. But now that sheÕs on the other side of  the 
+table, she doesnÕt even notice if  someone has pinged her three 
+times because sheÕs overwhelmed with emails.  
+
+                       
+If  you get no response, follow up within the week Ð ideally 3-4 days 
+later. If  you still havenÕt received a response, follow up again 3-4 
+days later.  
+If  you are writing toAmerican investors, direct asks are best, 
+because recipients are busy and donÕt want to spend time 
+interpreting what you really want.Are you asking for a meeting 
+about your seed round? Or are you asking for something else? 
+This should go without saying butÉ donÕt be an asshole. Emails like, 
+ÒListen stupid, you havenÕt responded yet Ó donÕt work. DonÕt even 
+address the fact that the recipient hasnÕt responded yet because it 
+sounds desperate.Just pretend that they never received the email in 
+the 
+Þ
+rst place. Sometimes that does happen. 
+Include a line that says that youÕll stop pinging them if  theyÕre too 
+busy or if  it Õs not the right time to partner.YouÕre simply looking for a 
+con
+Þ
+rmation Ð yes or no. Having persistence is more appreciated 
+than people might assume here.Just keep at it.  
+2. Be nice to an investor Õs assistant and ask for 
+help
+ 
+It goes without saying that you should treat an investor Õs assistant 
+with respect. But take it one step further and be actively friendly.An 
+investor Õs assistant is actually the most powerful person at the 
+Þ
+rm. 
+
+                       
+They control the investor Õs calendar, and while the investor may not 
+100% follow that calendar, the assistant may be able to nudge the 
+investor or slot you in for another meeting if  youÕre still having 
+trouble. 
+3. Create urgency
+ 
+If  youÕre trying to get in touch because you are raising money, it 
+helps to create urgency.An investor will make you their top priority if  
+your deal is going to close tomorrow.  
+Now, the question here is credibility Ð you canÕt say your deal is 
+going to close in a week unless it really is. One big mistake that 
+entrepreneurs make is to say, 
+ÒOh my round is closing next week and 
+we have a ton of  interest.Ó
+And next week comes and goes and no 
+one has committed to the round!All of  a sudden the entrepreneur 
+looks either like a liar. 
+The urgency you create must be real and something you know 100% 
+you can deliver on. Here are some things that can say to create 
+urgency: 
+!
+You have a Demo Day coming up onX date, and your price will 
+likely go up afterward.  
+!
+You are in second-meetings with a number of  investors (this 
+must be true!) and you expect the round to close soon. 
+
+                       
+!
+You only have $X left in the open round and about $Y amount 
+of  high-level interest from the investors youÕre talking to, so you 
+need to know soon. 
+!
+You are only raising $X (a small amount) on a convertible note 
+at $Y cap, and after you hit that, the price will likely go up. 
+(Note: use this only for investors who donÕt lead rounds) 
+Creating urgency is a good thing, but remember: you must be 
+credible. Otherwise, it can back
+Þ
+re on you and your reputation. 
+ 
+
+                       
+CHAPTER SIX 
+What to do after an 
+investor verbally 
+commits 
+An investor may tell you Ò Yes, I want to invest Ó but the hard work is 
+not over yet. Here are some things we recommend you do before 
+you of
+Þ
+cially accept their money, along with expectations about 
+what happens next.  
+Do your due diligence on 
+investors 
+ 
+It Õs normal for early-stage startups to grow for 7-10 years before 
+getting acquired or creating an IPO.This means that founders will 
+interact with their investors for a long time.As Eric puts it, youÕre 
+
+                       
+Ògrowing old together,Ó and most of  us want to grow old with 
+people we like and trust. 
+Before you of
+Þ
+cially accept money from an investor, you need to do 
+your due diligence.You donÕt want to get into business with the 
+wrong people. Here is an example of  why Drew (founder) shouldnÕt 
+have accepted money fromJason (investor).  
+!
+Jason called and emailed DrewALL the time.Way too much for 
+DrewÕs comfort level. Other times, when Drew emailed him for 
+help or advice,Jason didnÕt reply for weeks. 
+!
+Jason had promised to introduce Drew to other angel investors 
+but never ful
+Þ
+lled that promise. 
+!
+Jason told Drew that he wasnÕt ready to raise another round, 
+but never explained why. 
+Meanwhile, DrewÕs founder friends sawJasonÕs name listed as his 
+investor on Crunchbase.They went out of  their way to share 
+un
+ß
+attering stories of  their experiences working with him. But it was 
+too late for Drew to reverse his decision to work withJason. 
+He could have avoided the drama if  he didnÕt skip a critical part of  
+the fundraising process Ð conducting 
+investor reference calls.
+ 
+Investor reference calls are phone calls with other founders who 
+have worked with your prospective investor.These reference calls 
+usually take 10 minutes and will probably tell you everything you 
+
+                       
+need to know.Trust us, putting in the time to complete this step will 
+help you avoid toxic investors and save you years of  pain. 
+ 
+ 
+How to 
+Þ
+nd investor references
+ 
+First, ask your investor for two references. Drew can ask:
+ ÒHeyJason, 
+are there two founders youÕve worked with that I can speak to? I want 
+to learn more about the relationships you have with your founders.Ó
+ 
+Next, we recommend 
+Þ
+nding two more founder references outside 
+of  the names that the investor gave you.Why? Because an investor 
+will give you the names of  two founders that he feels con
+Þ
+dent will 
+give him a good review.  
+But you want a less biased source. So how do you 
+Þ
+nd the other 
+founders? Here are two methods that weÕve seen work well: 
+1.
+At the end of  your call with the 
+Þ
+rst referred founder, ask them 
+if  they can refer you to another person who has worked with 
+the investor.This is the easiest way to get a sense of  whoÕs 
+within the orbit of  the investor that youÕre considering taking 
+capital from. 
+2.
+Look at LinkedIn and other investor databases, and email 
+founders who have worked with that investor.YouÕd be 
+surprised at how effective a cold outreach is when youÕre doing 
+investor due diligence. Founders are eager to help other 
+founders when they can. 
+
+                       
+What to ask in your reference calls
+ 
+YouÕve now set up several calls.What should you ask these founders 
+about the investors youÕre thinking of  working with? Scott Cook, the 
+founder of  Intuit, recommended two key questions. 
+ÒOn a scale of  1-10, 10 being perfect and 1 being catastrophic, how 
+would you rank this person?Ó  
+Expect the founder to say 8 or 9.They will likely list a canned 
+response of  how helpful or awesome the investor has been so far. 
+Founders want to be cordial and not speak poorly of  anyoneÕs 
+character.This is where our next question is extra critical.  
+Ò What would this person need to do to become a 10?Ó 
+Most people arenÕt prepared for this introspective question.That's 
+when youÕll hear more honest answers.  
+$
+ÒI wish Quinn was a more strategic thinker.Ó 
+$
+ÒI wish Mohit was more responsive.Ó 
+$
+ÒI thinkAvery goes on vacation too much.Ó 
+When to conduct investor reference calls
+ 
+Do your investor reference callsAFTER the investor commits and 
+BEFORE you accept. DonÕt waste your time doing investor reference 
+calls before theyÕve even committed because it might be a wasted 
+
+                       
+effort. DonÕt leave it for after youÕve accepted their offer because 
+once youÕre locked in, it Õs important to honor your commitments.  
+This is why doing your investor due diligence between these two 
+stages is ideal.Any good investor will give you enough time to 
+conduct these calls because that is what a responsible steward of  
+capital should do. 
+DonÕt skip the references as Drew did.YouÕre starting a long-term 
+relationship with your investors. Spending a little extra effort at the 
+beginning may save you a lot of  pain down the road.  
+What to expect when youÕre 
+expectingVC funding
+ 
+When you accept money from aVC, thereÕs a checklist of  things that 
+they need to verify before they're legally allowed to wire money to 
+you.Things like: 
+!
+Certi
+Þ
+cate of  incorporation 
+!
+Bylaws 
+!
+Board consents 
+!
+Founder stock purchase agreements 
+!
+Option plans 
+!
+409a valuations 
+!
+Cap tables 
+
+                       
+And more documents.This can get more complex as you raise 
+larger amounts of  money.We recommend working with an attorney 
+to make sure everything goes smoothly.  
+Here are some other things you should expect.
+ 
+VCs may run a background check
+ 
+It Õs pretty common forVCs to run background checks on founders 
+before investing.They want to know if  the founder has a criminal 
+background or any active lawsuits that could put the business at risk.  
+VCs might also run an OFAC background check.This is when they 
+run the founder Õs name through theTreasury Department database. 
+They want to make sure the founder isn't aligned with terrorism or 
+on any ban lists, sanctions list, etc. If  the founder has a common 
+name, this might trigger a false positive and they may need to clear 
+things up with theirVC. 
+VCs will ask you to sign a side letter
+ 
+A 
+side letter
+ is a document outside of  the SAFE / convertible note 
+that outlines additional rights.YouÕll likely see these two fromVCs: 
+1.
+Pro Rata Rights
+ Ñ this allows theVC to invest more capital into 
+your company in future fundraises typically on a ÒproportionalÓ 
+basis (the right to reinvest the amount required to maintain the 
+equivalent percentage of  equity as before). 
+
+                       
+2.
+Most Favored Nation Rights (MFN)
+ Ñ this means if  a different 
+VC comes in later in the fundraising process and successfully 
+negotiates a lower valuation than the previous investor(s), the 
+previous investor(s) can re-set their valuation to the lower 
+amount.  
+Other things can happen in side letters, too.We recommend 
+reviewing everything with an attorney before you sign. 
+Call yourVC to con
+Þ
+rm wire details
+ 
+This might sound strange but youÕll actually need to call yourVC to 
+verify your details. No, texting isnÕt gonna cut it. Unfortunately, fraud 
+and scams are always a possibility when it comes to wire transfers.  
+Hop on the phone and verify your routing and account number to 
+make sure the money goes to the right place. Please do this. 
+Beware of VCs who donÕt actually have 
+money
+ 
+This isnÕt a good look forVCs, but there are investors who verbally 
+commit to an investment who have no money. Or worse, investors 
+who sign the of
+Þ
+cial documents but donÕt wire transfer you the 
+money until a year laterÉ How is this possible? 
+
+                       
+This could be because theVC is still raising capital themselves.They 
+can tell you theyÕd love to be your 
+Þ
+rst check in for $100,000.You go 
+through the entire process outlined above.And then youÕre 
+waitingÉ for weeks. Months. Maybe even an entire year.You call 
+yourVC,
+ Ò WhereÕs the money??Ó 
+TheVC may say something like, 
+Ò Well as you already know 
+[aka they 
+never told you], 
+we are still in the process of  raising our 
+Þ
+rst fund. 
+Once we can call down some money from investors, we will deploy it. 
+Just be patient.Ó
+ 
+This is a trap. HereÕs what you can do to catch signs before it 
+happens.  
+1.
+Please please please conduct investor reference calls (donÕt 
+skip this) 
+2.
+Seek clarity fromVCs by asking these questions: 
+a.
+When did you raise capital? 
+b.
+Are you still in the process of  fundraising? If  so, when is 
+your anticipated 
+Þ
+rst close or second close? 
+c.
+How long should we expect from your commitment to 
+receiving a wire? 
+d.
+How much money has been called by your current fund?  
+Getting a verbal commitment is just the 
+Þ
+rst step toward actually 
+receiving the money. Get your documents in order, con
+Þ
+rm your 
+wire details, and do your due diligence.  
+
+                       
+What investors look for in a data 
+room
+ 
+A 
+data room
+ is where founders store their most important company 
+documents, like: 
+!
+Incorporation documents 
+!
+Bylaws 
+!
+Cap table 
+Basically, data rooms show that your startup is a legit company with 
+actual employees. Super early-stage startups donÕt need a data 
+room. But weÕve met great pre-seed and seed-stage startups that 
+have a simple Dropbox or Google Drive folder with their key 
+documents. 
+For series-A and beyond, data rooms are important because they 
+have a lot more documents, like: 
+!
+Financial projections 
+!
+Client contracts 
+!
+Board minutes 
+!
+Founder stock purchase agreements 
+!
+Option plan and stock option agreements 
+!
+409A valuation report 
+
+                       
+DoVCs actually need to look at all the documents? In full 
+transparency, Elizabeth doesnÕt ask to see their data room when she 
+personally invests in startups as an angel investor. But as aVC, she 
+does ask for their incorporation papers to verify her investment is 
+going to the company, not the founder Õs bank account. In addition, 
+Hustle Fund veri
+Þ
+es the founders have vesting in place, a stock plan, 
+and a cap table that makes sense. 
+If  the company sends her a link to the data room anyway, she 
+doesnÕt thoroughly review each document. Instead, she looks to see 
+how the founders organize their data room. 
+One of  my favorite quotes is 
+ÒHow you do anything is how you do 
+everything.Ó 
+As such, we can expect that the way founders keep track 
+of  their documents is re
+ß
+ective of  the way they run their companies. 
+Impressive companies have everything organized and easy to 
+Þ
+nd 
+!
+All documents are 
+Þ
+led in the correct folders 
+!
+All important documents are included 
+!
+Everything is clearly labeled and easily searchable 
+Messy companies have very little sorted out 
+!
+Nothing is organized 
+!
+Files are missing 
+!
+Documents arenÕt properly labeled 
+
+                       
+Sure, we might verify some of  your assets. But what Õs more important 
+to us is seeing how you set up your Dropbox folder. Because how 
+you do anything is how you do everything. 
+What if  a founder doesnÕt have a data room?
+ 
+In the early days, not having a data room isnÕt a big deal. But as a 
+company matures, there are consequences for not having one. For 
+example, we know a founder whose fundraising round stalled for 
+months because his data room was missing half  of  the required 
+documents. 
+As a best practice, we send all companies we invest in a 
+checklist of  
+items
+ to share with us before we wire them money.You can use our 
+template below as an example of  what your investors might look for.  
+Hustle FundÕs Document Requirements
+ 
+We need fully executed and dated copies of  the following: 
+!
+Action of  Sole Incorporator 
+!
+Certi
+Þ
+cate of  Incorporation 
+!
+Bylaws 
+!
+Board Consents/Minutes 
+!
+Founder Stock PurchaseAgreements 
+!
+Option Plan and Stock OptionAgreements (if  any) 
+!
+409AValuation Report (if  any) 
+
+                       
+!
+CapitalizationTable (if  any) 
+!
+Proprietary Information and InvestmentsAssignment 
+Agreements (PIIAs) 
+Some of  these items like a 409A doc or cap table may be overkill, 
+but the fundamentals are there.Any startup lawyer can easily 
+provide this to a company. 
+HereÕs how youÕll actually receive 
+the money
+ 
+In September 2022, Hustle Fund raised $46M for Fund III.You must 
+think that weÕre sitting on top of  the world with all that cash in the 
+bank, right? Except we donÕt have $46M in our checking account, 
+even though we raised that money. 
+How the heck does that work?ThereÕs a process weÕve gotta go 
+through called 
+capital calls
+.A capital call is the process by which 
+VCs get access to the money they fundraised from their LPs. 
+WhenVCs have a deal that Õs ready to fund, they call down a 
+percentage of  the money that their LPs committed to our fund. Once 
+theVCs have received the cash, theyÕre able to wire the appropriate 
+amount to the founders.  
+The norm inVC is to ask for little portions of  their funds several times 
+each year. But if  they havenÕt called enough to fund all the startups 
+
+                       
+theyÕve committed to, theVC may need to make an additional 
+capital call, which can take a few weeks or even months. 
+Why does the process work like this?
+ 
+Imagine we received all $46M that we raised upfront and we issued 
+a $50k check to a founder.That means $45,950,000 is left sitting in 
+our checking account.That Õs money not being put to work. Maybe 
+not even earning any interest. 
+That money could be back in our LPsÕ hands to generate more cash. 
+They can invest in index funds or real estate or something else as 
+they wait for us to fund deals. It makes sense forVCs to not have all 
+the money sitting idle in their bank accounts. But this means the 
+capital call process takes time, and it Õs often the most common 
+reason for delays in founders receiving money fromVCs.  
+Every time a fund calls down money, they need to 
+!
+write an investment memo 
+!
+document why weÕre investing 
+!
+inform our LPs that we have a deal that Õs ready to fund 
+Basically theyÕre asking their LPs ÒPlease give us some money that 
+we raised from you so we can fund this awesome startup.Ó Money is 
+normally called down by percentages. So our fund admin (who 
+manages cash 
+ß
+ow) may tell our LPs that they want to call down 1% 
+
+                       
+($460,000) from our Fund III. Or they want to call down 10% 
+($4,600,000). 
+A typical capital call takes two weeks.And there's a two-week grace 
+period window for each LP to send the money to theVC fund, which 
+can cause more delays.At Hustle Fund, we have a different kind of  
+capital call structure.We call a little bit more money than we 
+normally need at any given time so we can wire money faster since 
+we do a lot of  deals.That process is slowly starting to become the 
+norm, but it's still infrequent. 
+Delays are somewhat common but it is rare for an LP to completely 
+miss or ignore a capital call.To spare you the details, there are 
+severe consequences to the LP if  this happens. Plus it massively 
+damages their reputation. Be patient when waiting to receive the 
+money. If  thereÕs a delay, youÕll know that it Õs likely because of  the 
+capital call process. 
+What to say to your team after a 
+successful fundraise
+ 
+Once you complete a successful fundraise, it Õs best practice to 
+communicate expectations with your team. Be sure to cover: 
+1.
+What youÕre gonna do with the money 
+2.
+How these funds affect your runway 
+
+                       
+3.
+How this could be your last fundraise, everÉ  
+1.What are you going to do with the money?
+ 
+YouÕve pitched a roadmap to investors on what youÕre going to do 
+with this cash. Now it Õs time to bring your team up to speed on what 
+youÕve promised. 
+Will you hire more employees? Boost your marketing efforts? Buy 
+new of
+Þ
+ce chairs for your team? Be super clear on how the money 
+will be spent.Then actually do those things. 
+  
+2. How these funds affect your runway
+ 
+You want to explain how these funds are going to affect your 
+companyÕs runway and the timing of  your next fundraise.Tell your 
+team what milestones you need to hit before the next fundraise.  
+Imagine I had a company called Quantus Solutions that just raised 
+$2M. I told investors that IÕd generate $10M in revenue with 20 
+enterprise clients within 12 months. My plan is to raise the next 
+round of  funding only when I accomplish this milestone.We 
+Employees might feel this is a good time to 
+mention that they want raises. It Õd be smart to 
+prepare for these potential conversations. 
+
+                       
+currently have 18-24 months of  runway so we have some buffer in 
+case we donÕt hit $10M in 12 months. But the goal is crystal clear. 
+Founders often forget to share this crucial piece of  info with their 
+team.They usually go out for a nice dinner and celebrate.Then 
+everyone just goes back to work. But your team needs to be in the 
+loop.Transparency builds trust. Share how much runway the 
+company has left and what the team needs to achieve together to 
+get everyone on the same page. 
+3.This could be our last fundraiseÉ
+ 
+The 
+Þ
+nal thing you should share is the most cheerful point of  all: 
+everything could go in 
+ß
+ames tomorrow.  
+It Õs currentlyJanuary 2024.WeÕre in a downturn right now. Raising 
+capital has gotten harder. Maybe the economy will get worse.We 
+donÕt really know what Õs going to happen.With all this uncertainty, 
+it Õs hard to predict whether or not youÕll be able to raise money in 
+the future. So the goal here is to stay alive.  
+ThereÕs no need to incite panic, but help your team understand that 
+every dollar is precious.Just because you have more of  it now than 
+you did a few months ago doesnÕt mean you can waste it. Raising 
+money after you achieve your big milestones is not guaranteed.  
+
+                       
+Continue to be lean, disciplined, and resourceful. DonÕt forget your 
+bootstrapper roots. It might even be easier to ignore the fact that 
+you have all this money in the bank.Whatever helps you stay alive. 
+ 
+
+                       
+Conclusion 
+Wow Ð you read to the very end! 
+  
+This book is everything we wished we had known when we 
+Þ
+rst 
+started to fundraise for our startups.We hope it helps you build a 
+thriving business that brings you joy and helps you leave your mark 
+on the world.  
+Hustle Fund invests in hilarious early-stage startups. If  that Õs you, tell 
+us what youÕre hustling on at 
+hustlefund.vc
+ 
+We write a weekly newsletter all about fundraising and scaling 
+startups. Read more great content on our 
+blog
+ and watch our 
+Uncapped Notes series on 
+YouTube
+.  
+Meet our community at our 
+online and in-person events
+. 
+Did you like the book? Let us know onTwitter!You can 
+Þ
+nd us 
+@mrtampham
+, 
+@ericbahn
+, 
+@dunkhippo33
+, 
+@shiyankoh
+, 
+@kerademars
+, 
+@hustlefundvc
+ 
+Do you know other founders who needs this book? Share this link: 
+bit.ly/RaiseMillions
+ 
+!
+ 
+Questions? Email us at 
+hello@hustlefundvc.com
+. 
+ 
+
+                       
+Cheat Sheet
+ 
+This is a high-level summary of  the bookÕs key takeaways. Refer back 
+to this page when you need a quick answer. Or go to 
+bit.ly/
+DunkyHippocorn
+ to ask our chatbot any questions about the book.  
+Fundraising 101
+ 
+!
+Not every business needs to raise money. It can be 
+advantageous to fundraise if  your goal is to eventually get 
+acquired or go public.  
+!
+If  you're a pre-seed founder, we recommend working with 
+angel investors.TheyÕre more accessible, will give you money 
+faster, and often roll up their sleeves to help your startup. If  
+youÕre in the later stages,VCs can provide you with more 
+money and direction when youÕre scaling fast. 
+!
+The amount of  money you should raise is based on several 
+factors: what industry youÕre in, how experienced your team is, 
+and how the market is doing.Typically speaking, weÕve seen 
+founders raise $100K - $1M at the pre-seed stage, $500K - $3M 
+at the seed stage, $1M-$5M at the post-seed stage, and $5M - 
+$10M at the SeriesA stage.  
+
+                       
+!
+Incorporate your company as a Delaware C-Corp and take 
+advantage of  many bene
+Þ
+ts, including saving money on taxes 
+through the Quali
+Þ
+ed Small Business Stock (QSBS). 
+!
+Raising money through post-money SAFEs is often the easiest 
+and most cost-effective way to fundraise for early startups. Use 
+a tool like 
+Pulley
+ to keep track of  your cap table at all times. 
+!
+How much equity you give up will depend largely on the 
+amount your startup raises and the valuation at which you raise. 
+In general, it Õs best to save as much equity as you can to 
+allocate it to people who can meaningfully help push the 
+business forward like investors (through capital and strategic 
+help) and key employees.  
+!
+Determining your valuation is more of  an art than a science, 
+especially if  you have an early-stage startup. Beyond factors 
+like revenue, team, and market, what is oftentimes most 
+important is investor demand. 
+!
+Be aware of  the current market conditions. Do your research on 
+how the market is before you fundraise.This will impact your 
+fundraising strategy. 
+!
+The best months to fundraise are fromJanuary - May and 
+September - November.Avoid fundraising inAugust and 
+during theThanksgiving - NewYear period.  
+
+                       
+Craft your pitch deck  
+ 
+ 
+!
+Team: Investors focus heavily on the team, especially in pre-
+seed companies. Emphasize your relevant skills and 
+background. Show investors that you have a strong relationship 
+with your co-founder. 
+!
+Problem:VCs want to see your business solve a signi
+Þ
+cant 
+problem that affects a large group of  people. Demonstrate 
+how you arrived at your problem statement and how much you 
+deeply understand your customersÕ pain points. 
+!
+Solution: Focus on differentiation, framing the story, and 
+product vision.You can differentiate your business by 
+highlighting a unique approach or market niche.The way you 
+frame the story should make your startup attractive even in less 
+favored industries.The product vision should outline future 
+goals to get investors excited rather than where you are right 
+now.  
+!
+Market:VCs look for startups that can give them a 100x return 
+while angel investors have different, often lower, expectations. 
+If  you raise money fromVCs, make sure the market can be 
+measured in billions of  dollars. Consider raising from angel 
+investors if  your market is smaller, and have conversations 
+about what success looks like for them. 
+
+                       
+!
+Traction:Think about traction more in terms of  ability to 
+execute rather than speci
+Þ
+c numbers.Your numbers donÕt have 
+to be great, but early-stage investors want to see that you can 
+move quickly and experiment with different tactics. Include a 
+go-to-market (GTM) strategy that includes early users, pilot 
+programs, and/or distribution channels. 
+!
+Keep your pitch deck short. It should be brief, ideally 5-10 
+slides, and easy to understand.You should be able to pitch to 
+someone outside of  your industry and not leave them 
+scratching their heads. If  they 
+Þ
+nd your pitch too complicated, 
+that Õs a sign to simplify your deck.  
+!
+Designing an effective pitch deck can have a huge impact on 
+your fundraising efforts. Invest time to make it great.  
+Build relationships with investors
+ 
+!
+Networking isn't about exchanging business cards and playing 
+golf  together. It Õs about forming authentic friendships in the 
+way youÕd normally form friendships. People prefer doing 
+business with people they like and trust (aka their friends).  
+!
+You can meet investors anywhere. Start with people you know, 
+and consider people you normally wouldnÕt expect to be an 
+investor (like your optometrist). Connect with them online 
+
+                       
+through LinkedIn,Twitter, andAngelist. Or of
+ß
+ine through live 
+events. 
+!
+Ask for warm intros: Investors are more likely to take a meeting 
+with someone who has been recommended to them. If  you 
+donÕt know anyone, one tactic is to build a relationship with 
+one of  the investor Õs portfolio company CEOs. 
+!
+Send cold emails: Research relevant investors in your industry 
+and send them a short email. Include a line about your 
+business, a few bullet points about your value proposition and 
+traction, and end with a clear call to action.  
+!
+Have an elevator pitch ready: It should be concise, impress 
+with a few key facts, and end with a speci
+Þ
+c call to action. It's 
+not about closing money on the spot but more about driving 
+enough interest to have a proper meeting.  
+Pitch your startup 
+ 
+ 
+!
+Have your 
+Þ
+rstVC meeting on Zoom. Show your real 
+background. DonÕt worry about presenting your pitch deck. 
+Listen to their story and weave their comments into your pitch.  
+!
+Expect questions about your team, the problem youÕre solving, 
+your solution, market size, customer acquisition, traction, and 
+fundraising plans. Look at tough questions as a sign that 
+
+                       
+investors are interested. Be open to feedback, show a growth 
+mindset, and avoid being defensive. 
+!
+Follow up right after the call reiterating what you both talked 
+about and send over any promised assets. 
+!
+Create an investor CRM to organize your investor contacts, 
+track interactions, and manage follow-ups.  
+!
+Send an investor newsletter to all investors and potential 
+investors.This builds trust with your current investors and it acts 
+as a driver to fundraise from potential investors. Be consistent 
+in sending out the newsletter, whether monthly or quarterly. 
+!
+Some investors may give you a vague pass. It Õs OK to ask for 
+speci
+Þ
+c feedback from investors who say no. If  youÕre not 
+receiving helpful advice, lean on trusted founders for honest 
+feedback. 
+!
+Follow up, follow up, follow up. Be persistent in following up 
+with investors. Sometimes investors are busy. Send another 
+message until you get a clear yes or no. 
+
+                       
+What happens after an investor 
+says ÒyesÓ 
+ 
+ 
+ 
+ 
+!
+Before you commit to the wrong person, conduct investor 
+reference calls before you accept their offer.You can 
+Þ
+nd 
+references by asking the investor directly, searching on 
+LinkedIn, and asking the people youÕve talked to for other 
+references.  
+!
+YouÕll need to prepare necessary legal documents like 
+incorporation certi
+Þ
+cates, bylaws, founder agreements, etc. Be 
+aware thatVCs may conduct background checks and require 
+additional documents like side letters. Once youÕre in the clear, 
+con
+Þ
+rm wire details over a phone call to avoid fraud. Lastly, 
+beware of  cashlessVCs. 
+!
+A data room re
+ß
+ects how founders manage their company, so 
+keep it well-organized, especially for seriesA and beyond. 
+Having a messy data room can stall fundraising and be a bad 
+sign about company management. Having a Dropbox folder 
+with your key documents is a great start for your data room 
+!
+The capital call process is whereVCs call down funds from their 
+LPs.This might cause delays in founders receiving money, 
+which is why founders should ask insightful questions about 
+the fund's status and available capital. 
+
+                       
+!
+Share with your team the plans on how your new funds will 
+impact the companyÕs runway and strategy. Remind the team to 
+stay scrappy because fundraising successfully in the future is 
+not always guaranteed. 
+Resources 
+ 
+ 
+!
+Pitch deck eBook with Deck Doctors
+ 
+!
+Cap table template
+ 
+!
+Investor CRM template
+ 
+!
+Investor newsletter template
+ 
+!
+Hustle Fund Investment Checklist
+ 
+ 
+
+                       
+Acknowledgments
+ 
+A huge thank you to my manager and editor, Kera DeMars. She's 
+coached me to be a sharper writer and a stronger storyteller. Kera 
+reviewed this book with extra love to make sure it would be a long-
+lasting resource.Thank you for trusting me with this project. 
+I 
+Þ
+rst met Eric Bahn and ElizabethYin when I interned for an early 
+startup they advised. I had no real skills or connections, but they 
+invested their valuable time to mentor me over the years.Thank you 
+for seeing potential in me that I didnÕt yet realize. 
+Thank you to the mentors who took a chance on me, especially 
+Jayson Gaignard,AndrewWarner, Hung Pham, and Kevin Lee.Thank 
+you to my coaches Kat Koh and MelissaWong for keeping me 
+aligned whenever IÕve felt lost (which was often).  
+Thank you to my best friend Chloe Lim for being my biggest 
+cheerleader throughout my ups and downs, and modeling what it Õs 
+like to be an amazing friend and human.  
+Lastly, thank you to the countless number of  people who have 
+impacted my life in both big and small ways Ð I am forever grateful.  
+With 
+"
+, 
+Tam Pham 
+
+                       
+Glossary 
+ 
+ 
+ 
+Angel investor: 
+An angel investor is an individual who has 
+accredited investor status.That means they have a million dollars of  
+investable assets or a really large salary.Angels donÕt have to be 
+techies or experts in your industry.They could be your dentist or a 
+friendÕs mom. 
+Cap table:
+A cap table is a spreadsheet that has a list of  all the 
+people and entities that own pieces of  your company.  
+Capital calls:
+A capital call is the process of  venture capitalists calling 
+down money from their Limited Partners (LPs) to give that capital to 
+the startups they want to invest in. Capital calls can be a common 
+reason for delays in founders receiving money fromVCs.  
+Common and preferred shares:
+ Common shares and preferred 
+shares are two types of  stock that companies can issue, and they 
+come with different rights, bene
+Þ
+ts, and risks.  
+Data room: 
+A data room is a place where founders store their most 
+important company documents, like incorporation documents, 
+bylaws, and your cap table. Investors might verify some of  your 
+assets but what Õs more important to them is seeing how well youÕve 
+organized your data room.  
+
+                       
+Dilution:
+ Dilution is the decrease in an existing shareholder's 
+ownership percentage of  a company as a result of  the company 
+issuing more shares.  
+Down round:
+A startup on a good trajectory should see its post-
+money valuation increase with every new 
+Þ
+nancing round. If  the 
+post-money valuation goes down round-over-round, it Õs called a 
+down round and this could signal the business is in peril. 
+Employee stock option pool (ESOP): 
+Investors will often expect you 
+to create an employee stock option pool (ESOP).This means setting 
+aside some shares for your employees to incentivize them to do 
+great work.This typically represents 10% of  the pie and is something 
+to potentially negotiate when you raise money from investors 
+because the ESOP will further dilute the cap table.  
+Equity:
+ Equity is ownership in the company. So if  an investor has 5% 
+of  the equity in your business, they own 5% of  your company.You 
+want to strategically give equity to key people Ð investors, advisors, 
+and employees Ð to help grow the value of  the company. Beware of  
+giving away too much because a small amount of  equity in the 
+beginning can be worth millions of  dollars down the line.  
+Exponential growth: 
+when your revenue is increasing at a faster rate 
+than your incurring costs. Investors love investing in startups that 
+have the potential to scale fast through exponential growth. 
+
+                       
+Fully diluted cap table:
+ If  the founders, investors, and key 
+employees stay on until their vesting schedule is complete, then 
+youÕll have a fully diluted cap table. Everyone who was allocated 
+shares will have the option to purchase their shares.  
+Go-to-market (GTM) strategy: 
+Your go-to-market strategy is your 
+plan on how youÕre going to acquire customers. Investors want to 
+see your thought process behind distribution and how youÕll 
+execute your plan.  
+Investor CRM: 
+CRM stands for customer relationship management 
+and is a tool that keeps track of  your important contacts in one 
+place.Think Salesforce, HubSpot, or Pipedrive. But a CRM can be as 
+simple as a Google Sheet. Founders should have a CRM to organize 
+their fundraising efforts.  
+Investor newsletter: 
+This is a monthly (or quarterly) update on what Õs 
+happening in your startup that keeps your existing investors 
+engaged and acts as a fundraising tool for prospective investors.  
+Investor reference calls: 
+These are phone calls with people who 
+have worked with your prospective investor. Founders should do 
+their due diligence before accepting an investor Õs money to verify 
+the investor is someone whom theyÕd like to work with long-term. 
+Lead investor:
+A lead investor is the main investor in a funding 
+round.They usually put half  or more of  the money into the round. 
+
+                       
+Limited Partners (LPs): 
+A venture capital 
+Þ
+rm raises money from 
+investors called Limited Partners (LPs).ThenVCs invest that capital 
+into startups and return money to their LPs in the event of  an exit. 
+Pre-money valuation: 
+The pre-money valuation is the valuation of  
+the business before it receives any outside investment.This is the 
+number negotiated between founders andVCs that informs how 
+much the investors will need to put in to purchase their desired 
+equity stake. 
+Pre-seed: 
+The pre-seed stage is the 
+Þ
+rst round of  funding that 
+founders raise. It Õs also known as an Òangel roundÓ or Òfriends and 
+family roundÓ. 
+Post-money valuation:
+The post-money valuation is the startupÕs 
+valuation after receiving outside investment.  
+Post-seed: 
+The post-seed stage is a gray area between seed and 
+seriesA.YouÕve made major progress as a seed-stage company but 
+not quite enough to raise a SeriesA.You may hear people call this 
+round the Òmango seed stageÓ, Òavocado seed stageÓ, or Òpre-series 
+AÓ.  
+Quali
+Þ
+ed Small Business Stock (QSBS):
+This may help you become 
+exempt from paying federal taxes when your company exits. Only 
+Delaware C Corporations that have been around for at least 
+Þ
+ve 
+years can qualify for QSBS. See DelawareÕs of
+Þ
+cial page for the full 
+details. 
+
+                       
+SAFEs: 
+SAFE stands for Òsimple agreement for future equity.ÓA SAFE 
+isnÕt equity you sell to your investors, rather it Õs the promise of  equity 
+in the future.Think of  SAFEs almost like an IOU Ð youÕre not issuing 
+any equity yetÉ but once you have an equity 
+Þ
+nancing round, an 
+acquisition, or an IPO, that SAFE will get converted into equity.  
+Seed: 
+The seed stage is where you're validating the market demand 
+for your product and making solid traction. 
+SeriesA: 
+The SeriesA stage is when youÕve found product-market 
+Þ
+t 
+and can scale your business.You have strong evidence that you can 
+capture a decent share of  the huge market.YouÕve shown that you 
+can recruitA-players and have a solid team that can execute your 
+vision. 
+Side letter:
+A side letter is a document outside of  the SAFE / 
+convertible note that outlines additional rights.  
+Startup valuation:
+A startup valuation is the 
+Þ
+nancial value of  a 
+startupÕs equity at a given point in time.  
+Unit economics:
+ the cost of  acquiring and onboarding a customer 
+compared to how much money you make from that customer. 
+Vesting:
+ Founders and employees earn shares by working for the 
+startup, but their shares vest across 4 years.This means they donÕt 
+get all the shares upfront when they start/join the company.They 
+have to work at the company for 4 years to get all of  them.Vesting 
+
+                       
+prevents people who only work for the company for a short period 
+of  time to walk away with considerable equity. 
+ 
+Who else needs to read this?  
+Share this book with a friend 
+#
+  
+bit.ly/RaiseMillions
+
