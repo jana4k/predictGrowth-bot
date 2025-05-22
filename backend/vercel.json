@@ -1,4 +1,3 @@
-
 {
     "version": 2,
     "builds": [
@@ -7,8 +6,9 @@
             "use": "@vercel/node",
             "config": {
                 "includeFiles": [
-                    "dist/src/knowledge_base.txt",
-                    "dist/models/**" 
+                    "dist/knowledge_base.txt",
+                    
+                    "dist/models/**/*.js"
                 ]
             }
         }
@@ -16,11 +16,11 @@
     "routes": [
         {
             "src": "/api/(.*)",
-            "dest": "dist/index.js" 
+            "dest": "dist/index.js"
         },
-        { 
+        {
             "src": "/",
-            "dest": "dist/index.js" 
+            "dest": "dist/index.js"
         }
     ]
 }

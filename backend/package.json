@@ -1,12 +1,12 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/src/index.js",
   "scripts": {
     "clean": "rimraf dist",
     "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
-    "build": "npm run clean && tsc && copyfiles -u 1 src/knowledge_base.txt dist/src && copyfiles -u 1 src/structured_knowledge_base.json dist/src",
-    "start": "node dist/src/index.js",
+    "build": "npm run clean && tsc && copyfiles -u 1 src/knowledge_base.txt dist",
+    "start": "node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
