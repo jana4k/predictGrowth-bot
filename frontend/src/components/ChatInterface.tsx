@@ -66,7 +66,7 @@ const ChatInterface: React.FC = () => {
   const [historyLoading, setHistoryLoading] = useState(false);
   const [historyError, setHistoryError] = useState<string | null>(null);
 
-  const backendUrl = import.meta.env.VITE_BACKEND_API_URL || 'http://localhost:3004/api';
+  const backendUrl = 'https://3005-firebase-predictgrowth-1747803817750.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev/api';
 
   useEffect(() => {
     if (lastMessageRef.current) {
