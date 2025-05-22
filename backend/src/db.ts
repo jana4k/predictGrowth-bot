@@ -3,7 +3,7 @@ import dotenv from 'dotenv';
 
 dotenv.config(); // Ensures .env variables are loaded
 
-const MONGODB_URI = 'mongodb+srv://developerebsite:HNrGVktEfmSlzTmk@cluster0.yckevdl.mongodb.net/fundraisingBotDB?retryWrites=true&w=majority&appName=Cluster0'
+const MONGODB_URI = 'API-KEY'
 if (!MONGODB_URI) {
     console.error("CRITICAL: MONGODB_URI is not defined in environment variables. Database functionality will be disabled.");
 }
