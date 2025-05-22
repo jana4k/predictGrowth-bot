@@ -14,7 +14,7 @@ import {
 const { Header, Content } = Layout;
 const { Title } = Typography;
 
-const clerkPubKey = 'pk_test_bWVldC1ib2EtNjEuY2xlcmsuYWNjb3VudHMuZGV2JA';
+const clerkPubKey = 'API-KEY';
 
 if (!clerkPubKey) {
   throw new Error("Missing Clerk Publishable Key. Did you set VITE_CLERK_PUBLISHABLE_KEY in .env.local?");
